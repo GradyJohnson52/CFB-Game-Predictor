@@ -1,135 +1,137 @@
 0,2
-Oregon,92.9
-Notre Dame,87.5
-Ohio St,87.5
-Boise St,85.7
-Army,85.7
-Memphis,84.6
-BYU,84.6
-Indiana,84.6
-Penn St,81.3
-Texas,81.3
-UNLV,78.6
-Arizona St,78.6
-S Methodist,78.6
-Iowa St,78.6
-Ohio,78.6
-Georgia,78.6
-Syracuse,76.9
-Marshall,76.9
-Missouri,76.9
-Illinois,76.9
-Sam Hous St,76.9
-Tennessee,76.9
-Navy,76.9
-Mississippi,76.9
-Miami,76.9
-Clemson,71.4
-Louisiana,71.4
-Louisville,69.2
-Connecticut,69.2
-James Mad,69.2
-LSU,69.2
-Colorado,69.2
-Duke,69.2
-S Carolina,69.2
-Kansas St,69.2
-Alabama,69.2
-Buffalo,69.2
-TX Christian,69.2
-Liberty,66.7
-Miami (OH),64.3
-Tulane,64.3
-Jksnville St,64.3
-Arkansas St,61.5
-Colorado St,61.5
-Minnesota,61.5
-GA Southern,61.5
-Baylor,61.5
-Toledo,61.5
-Texas St,61.5
-Florida,61.5
-N Illinois,61.5
-Iowa,61.5
-Texas A&M,61.5
-Texas Tech,61.5
-Michigan,61.5
-E Carolina,61.5
-Wash State,61.5
-W Kentucky,57.1
-USC,53.9
-Nebraska,53.9
-Arkansas,53.9
-GA Tech,53.9
-Rutgers,53.9
-San Jose St,53.9
-Vanderbilt,53.9
-S Florida,53.9
-Pittsburgh,53.9
-Bowling Grn,53.9
-Boston Col,53.9
-UTSA,53.9
-S Alabama,53.9
-VA Tech,46.2
-W Virginia,46.2
-California,46.2
-W Michigan,46.2
-Washington,46.2
-N Carolina,46.2
-North Texas,46.2
-Oklahoma,46.2
-Fresno St,46.2
-NC State,46.2
-Coastal Car,46.2
-App State,45.5
-Oregon St,41.7
-UL Monroe,41.7
-Hawaii,41.7
-Auburn,41.7
-Utah,41.7
-Cincinnati,41.7
-New Mexico,41.7
-Kansas,41.7
-Wisconsin,41.7
-E Michigan,41.7
-UCLA,41.7
-Air Force,41.7
-Virginia,41.7
-Charlotte,41.7
-Michigan St,41.7
-Old Dominion,41.7
-LA Tech,38.5
-Rice,33.3
-Arizona,33.3
-UCF,33.3
-Kentucky,33.3
-Utah St,33.3
-Akron,33.3
-Maryland,33.3
+Auburn,100.0
+Louisville,100.0
+Rutgers,100.0
+Missouri,100.0
+Washington,100.0
+Tulane,100.0
+Navy,100.0
+Indiana,100.0
+Oklahoma,100.0
+Penn St,100.0
+UNLV,100.0
+Florida St,100.0
+Ohio St,100.0
+Maryland,100.0
+Michigan St,100.0
+Texas Tech,100.0
+NC State,100.0
+Texas A&M,100.0
+Arizona,100.0
+UCF,100.0
+Miami,100.0
+Mississippi St,100.0
+Georgia Tech,100.0
+California,100.0
+Illinois,100.0
+N Texas,100.0
+Utah,100.0
+Georgia,100.0
+TCU,100.0
+Houston,100.0
+LSU,100.0
+Mississippi,100.0
+Nebraska,100.0
+Iowa St,100.0
+BYU,100.0
+USC,100.0
+Memphis,100.0
+Vanderbilt,100.0
+Oregon,100.0
+Fresno St,75.0
+Hawai'i,75.0
+SMU,66.7
+Minnesota,66.7
+Kentucky,66.7
+New Mexico,66.7
+W Kentucky,66.7
+Utah St,66.7
+Buffalo,66.7
+Rice,66.7
+Louisiana Tech,66.7
+South Carolina,66.7
+Michigan,66.7
+Iowa,66.7
+Texas,66.7
+Temple,66.7
+Arizona St,66.7
+Syracuse,66.7
+Wyoming,66.7
+Tennessee,66.7
+Old Dominion,66.7
+Wake Forest,66.7
+New Mexico St,66.7
+Alabama,66.7
+Purdue,66.7
+Baylor,66.7
+West Virginia,66.7
+Kansas,66.7
+Virginia,66.7
+Wisconsin,66.7
+Cincinnati,66.7
+Florida Intl,66.7
+Arkansas,66.7
+Bowling Green,66.7
+Washington St,66.7
+Pittsburgh,66.7
+North Carolina,66.7
+E Carolina,66.7
+UAB,66.7
+Toledo,66.7
+Delaware,66.7
+S Florida,66.7
+Southern Miss,66.7
+Texas St,66.7
+App State,66.7
+Army,50.0
+Colorado St,50.0
+UL Monroe,50.0
+Air Force,50.0
+J Madison,50.0
+Oklahoma St,50.0
+Boise St,50.0
+N Illinois,50.0
+San Diego St,50.0
+C Michigan,33.3
+Boston College,33.3
+Kennesaw St,33.3
 Northwestern,33.3
-Florida Intl,33.3
-Central Mich,33.3
-Houston,33.3
-Wake Forest,33.3
+Duke,33.3
+Marshall,33.3
+Nevada,33.3
+Middle Tenn,33.3
+Missouri St,33.3
+Jacksonville St,33.3
+Georgia St,33.3
+Kent St,33.3
+Georgia So,33.3
 Troy,33.3
-Wyoming,25.0
-Fla Atlantic,25.0
-Stanford,25.0
-Middle Tenn,25.0
-N Mex State,25.0
-Temple,25.0
-Tulsa,25.0
-San Diego St,25.0
-Ball St,25.0
-Oklahoma St,25.0
-Georgia St,25.0
-UAB,25.0
-TX El Paso,25.0
-Nevada,23.1
-U Mass,16.7
-Florida St,16.7
-Kennesaw St,16.7
-Miss State,16.7
-Purdue,8.3
-S Mississippi,8.3
-Kent St,0.0
+Colorado,33.3
+Stanford,33.3
+Clemson,33.3
+Tulsa,33.3
+Charlotte,33.3
+Ohio,33.3
+Arkansas St,33.3
+UTEP,33.3
+Louisiana,33.3
+Florida Atlantic,33.3
+UConn,33.3
+Ball St,33.3
+S Alabama,33.3
+Florida,33.3
+Coastal Car,33.3
+Liberty,33.3
+UTSA,33.3
+Kansas St,25.0
+W Michigan,0.0
+San Jose St,0.0
+Oregon St,0.0
+Notre Dame,0.0
+Miami OH,0.0
+E Michigan,0.0
+Virginia Tech,0.0
+Akron,0.0
+Sam Houston,0.0
+UCLA,0.0
+UMass,0.0

@@ -1,135 +1,137 @@
 Team,Rating
-Ohio St,30.8
-Texas,29.5
-Alabama,29.0
-Indiana,27.3
-Tennessee,26.2
-Mississippi,24.2
-Penn St,23.8
-Notre Dame,22.9
-Miami,21.9
-S Methodist,21.3
-USC,20.5
-Louisville,20.0
-Oregon,19.6
-Georgia,18.1
-Texas A&M,17.5
-Iowa,17.2
-Colorado,16.8
-Clemson,16.2
-Florida,15.6
-LSU,15.6
-Iowa St,15.0
-Oklahoma,15.0
-Missouri,14.9
-Kansas St,14.5
-S Carolina,14.4
-Baylor,14.1
-Kansas,13.9
-Arizona St,13.6
-VA Tech,13.2
-UNLV,12.5
-Washington,12.4
-Minnesota,11.9
-BYU,11.7
-Tulane,11.3
-GA Tech,11.1
-Army,11.1
-Boise St,10.8
-Michigan,10.1
-Vanderbilt,9.9
-Nebraska,9.0
-Illinois,8.8
-Texas Tech,8.5
-Boston Col,8.4
-Pittsburgh,7.9
-Auburn,7.9
-TX Christian,7.7
-Syracuse,7.0
-UCF,6.7
-Cincinnati,6.7
-James Mad,6.5
-Utah,6.5
-Wash State,5.4
-Texas St,5.0
-Kentucky,4.3
-Wisconsin,3.9
-Duke,3.7
-Connecticut,3.6
-Arkansas,3.5
-Ohio,3.5
-California,3.4
-UCLA,2.3
-Houston,2.3
-Memphis,2.2
-Navy,2.0
-Rutgers,1.5
-UTSA,1.3
-W Virginia,1.1
-S Alabama,1.0
-E Carolina,0.2
-Miami (OH),-0.2
-Louisiana,-0.7
-Marshall,-0.8
-Jksnville St,-1.1
-Old Dominion,-1.5
-Fresno St,-1.7
-Maryland,-1.8
-NC State,-2.1
-Rice,-2.1
-GA Southern,-2.5
-Northwestern,-3.0
-Utah St,-3.4
-Stanford,-3.7
-Oklahoma St,-3.7
-Hawaii,-3.7
-North Texas,-4.1
-N Carolina,-4.6
-Michigan St,-4.6
-Toledo,-5.0
-Buffalo,-5.2
-Liberty,-5.8
-Arizona,-6.0
-Florida St,-6.3
-Virginia,-6.7
-W Kentucky,-6.7
-Miss State,-6.9
-Oregon St,-7.0
-App State,-7.1
-S Florida,-7.4
-Colorado St,-7.6
-San Jose St,-8.0
-Central Mich,-8.0
-Wake Forest,-8.3
-N Illinois,-8.4
-UL Monroe,-8.7
-Florida Intl,-8.8
-UAB,-8.8
-Nevada,-9.3
-W Michigan,-9.6
-Bowling Grn,-9.6
-Troy,-10.0
-Sam Hous St,-10.2
-Wyoming,-10.8
-Air Force,-11.2
-LA Tech,-12.3
-E Michigan,-13.0
-Akron,-13.2
-Arkansas St,-13.3
-Purdue,-13.3
-New Mexico,-14.2
-Fla Atlantic,-14.7
-Coastal Car,-15.0
-Temple,-15.5
-Ball St,-16.1
-Charlotte,-16.3
-San Diego St,-16.8
-Georgia St,-18.5
-U Mass,-20.9
-N Mex State,-22.8
-S Mississippi,-24.5
-Kennesaw St,-24.6
-TX El Paso,-24.9
-Tulsa,-29.1
-Middle Tenn,-30.0
-Kent St,-36.4
+Florida St,41.0
+Alabama,40.4
+Oregon,37.3
+USC,32.6
+Nebraska,31.4
+Ohio St,30.2
+S Florida,27.3
+Mississippi,26.7
+Indiana,26.2
+BYU,26.0
+N Texas,24.4
+Missouri,24.3
+Miami,24.0
+Michigan,23.4
+Utah,23.1
+Texas Tech,23.0
+Toledo,21.4
+Arkansas,21.2
+Tennessee,20.8
+Boston College,20.8
+Illinois,20.2
+Mississippi St,19.4
+E Carolina,18.3
+Penn St,18.3
+Oklahoma,18.0
+LSU,16.9
+Kansas,16.6
+Georgia Tech,16.5
+Cincinnati,15.8
+Washington,15.8
+Fresno St,15.1
+Old Dominion,14.9
+Notre Dame,14.6
+Georgia,14.6
+Minnesota,13.8
+Arizona,13.6
+Virginia,13.5
+Iowa St,13.4
+Florida,13.3
+Pittsburgh,13.3
+Texas A&M,13.1
+Vanderbilt,12.7
+Stanford,12.0
+Rutgers,11.6
+UConn,11.5
+West Virginia,11.3
+California,11.3
+Texas,11.0
+Tulane,10.8
+Auburn,10.6
+UCF,10.2
+Ohio,8.8
+Houston,8.4
+Kentucky,8.3
+Louisville,7.9
+NC State,7.1
+Boise St,6.5
+Wisconsin,6.4
+Syracuse,6.1
+Colorado,6.1
+Clemson,6.0
+San Diego St,5.5
+Florida Atlantic,5.2
+Memphis,5.1
+Iowa,4.9
+Northwestern,4.8
+Arizona St,4.7
+W Kentucky,4.2
+Navy,3.8
+Utah St,3.8
+Louisiana Tech,3.8
+Baylor,3.6
+J Madison,3.1
+Air Force,3.0
+Buffalo,2.2
+Maryland,1.8
+Texas St,1.6
+SMU,0.4
+Miami OH,--
+C Michigan,--
+Jacksonville St,-0.4
+Michigan St,-0.9
+Purdue,-0.9
+Florida Intl,-2.5
+W Michigan,-2.5
+Georgia So,-4.2
+Temple,-4.7
+South Carolina,-4.8
+Bowling Green,-5.0
+Duke,-5.4
+UTEP,-5.4
+Southern Miss,-6.5
+Arkansas St,-6.6
+UTSA,-6.7
+Delaware,-6.9
+TCU,-7.2
+Hawai'i,-7.5
+S Alabama,-7.6
+UL Monroe,-7.8
+Wyoming,-7.8
+Liberty,-8.0
+Washington St,-8.2
+Wake Forest,-9.0
+Tulsa,-9.2
+UNLV,-9.2
+Oklahoma St,-10.4
+Marshall,-10.8
+North Carolina,-11.0
+Louisiana,-12.4
+New Mexico,-12.6
+Missouri St,-13.0
+New Mexico St,-13.2
+Oregon St,-13.2
+Kansas St,-13.8
+Virginia Tech,-14.1
+Rice,-15.4
+Troy,-15.4
+Kennesaw St,-15.8
+Georgia St,-18.0
+Kent St,-19.3
+App State,-19.4
+Colorado St,-20.6
+UAB,-21.3
+San Jose St,-22.2
+Akron,-22.7
+Charlotte,-23.0
+Sam Houston,-23.4
+N Illinois,-24.0
+Nevada,-24.1
+Ball St,-24.1
+Army,-24.4
+UCLA,-26.0
+Coastal Car,-26.7
+E Michigan,-33.3
+Middle Tenn,-36.5
+UMass,-37.5

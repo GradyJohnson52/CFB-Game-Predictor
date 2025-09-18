@@ -71,14 +71,14 @@ def process_team_data(df):
     numeric_columns = df.select_dtypes(include=[np.number]).columns
     df[numeric_columns] = df[numeric_columns].fillna(df[numeric_columns].mean())
 
-    # Scale the numeric features
+    # Scale the features
     scaler = StandardScaler()
     df[numeric_columns] = scaler.fit_transform(df[numeric_columns])
     return df
 
 
 # Function to create matchups between teams
-def create_advanced_matchup_data(df):
+def create_adv_match_data(df):
     features = []
     for i in range(len(df)):
         for j in range(i + 1, len(df)):
@@ -130,8 +130,8 @@ processed_team_df = process_team_data(team_df)
 teams_in_data = set(processed_team_df['team'])
 
 # Generate matchups between teams
-matchup_df = create_advanced_matchup_data(processed_team_df)
+matchup_df = create_adv_match_data(processed_team_df)
 
-# Save the processed matchup data to a CSV
+# Save the matchup data to a CSv
 matchup_df.to_csv('CSVs/advanced_matchup_data.csv', index=False)
 print("Matchup data processed and saved.")

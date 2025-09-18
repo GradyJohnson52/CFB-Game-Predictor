@@ -1,135 +1,137 @@
 1,2
-Florida Intl,163.1
-Ohio St,167.0
-Iowa St,169.0
-Notre Dame,169.4
-N Illinois,169.8
-Washington,172.3
-Texas,173.8
-LA Tech,175.8
-Sam Hous St,177.0
-UL Monroe,180.0
-Minnesota,181.0
-Indiana,181.7
-Bowling Grn,182.4
-Wisconsin,183.5
-W Kentucky,183.8
-Tulane,183.8
-Kentucky,185.0
-Rice,185.2
-Alabama,185.8
-Oregon,187.3
-BYU,188.7
-Houston,188.8
-U Mass,190.6
-UAB,191.3
-Army,191.8
-Temple,191.9
-Tennessee,192.3
-Penn St,192.9
-Colorado,192.9
-Miami (OH),193.5
-Missouri,194.2
-TX Christian,194.9
-Louisiana,196.4
-Liberty,196.5
-Air Force,197.7
-Florida St,199.7
-Nevada,200.3
-Marshall,202.2
-S Carolina,203.2
-Central Mich,203.2
-Fresno St,204.5
-Georgia St,206.2
-Oklahoma,208.1
-Iowa,209.0
-James Mad,210.3
-Toledo,211.8
-Utah,212.0
-Charlotte,212.2
-Oregon St,212.7
-Texas St,212.8
-Navy,213.4
-Auburn,213.8
-Georgia,214.2
-Michigan St,214.5
-Troy,215.5
-VA Tech,215.9
-Jksnville St,216.3
-Michigan,216.3
-Ohio,218.3
-Connecticut,220.0
-S Mississippi,220.5
-Miami,220.8
-Cincinnati,220.8
-Nebraska,221.3
-Duke,222.1
-Clemson,222.3
-San Diego St,222.9
-App State,224.1
-Hawaii,225.2
-Arizona St,226.7
-California,228.2
-Wyoming,229.6
-UCF,229.9
-Syracuse,230.1
-LSU,230.8
-E Michigan,230.9
-Illinois,231.3
-GA Tech,231.4
-W Michigan,231.5
-Coastal Car,232.0
-TX El Paso,233.0
-NC State,233.3
-S Methodist,233.7
-Florida,234.4
-Kansas St,235.3
-USC,235.5
-UNLV,236.6
-San Jose St,237.3
-Northwestern,237.6
-N Carolina,237.7
-Mississippi,237.8
-Old Dominion,237.8
-Colorado St,238.3
-Akron,239.0
-Rutgers,240.7
-Texas A&M,243.3
-Fla Atlantic,244.2
-UCLA,244.7
-Miss State,245.8
-Baylor,246.3
-Kennesaw St,247.4
-N Mex State,247.6
-E Carolina,249.0
-Maryland,249.1
-Kansas,249.3
-Louisville,249.8
-Boise St,250.0
-Middle Tenn,250.2
-Buffalo,250.6
-Arizona,250.8
-Vanderbilt,252.8
-Arkansas St,254.1
-S Alabama,255.3
-Kent St,255.9
-Arkansas,257.1
-Utah St,258.4
-Boston Col,260.3
-GA Southern,263.0
-Pittsburgh,266.4
-W Virginia,267.9
-Memphis,269.2
-Purdue,269.9
-North Texas,271.6
-Wash State,273.6
-Virginia,277.0
-UTSA,277.4
-Ball St,281.5
-New Mexico,285.9
-Stanford,287.5
-Oklahoma St,287.8
-Wake Forest,289.3
-Texas Tech,291.6
-S Florida,291.8
-Tulsa,334.5
+Nebraska,65.5
+Liberty,99.0
+Oregon,101.0
+Alabama,108.0
+Oklahoma,110.0
+Louisiana,112.0
+Missouri,113.5
+Iowa,113.5
+Utah,122.0
+Houston,127.5
+Louisville,137.0
+Penn St,137.0
+Rice,138.0
+Indiana,139.0
+Mississippi St,140.5
+Ohio St,141.5
+BYU,142.0
+Hawai'i,143.0
+N Texas,149.0
+J Madison,151.0
+Kansas St,152.0
+S Alabama,153.5
+Arizona,155.5
+UCF,157.0
+Army,172.0
+TCU,172.0
+Tulsa,173.0
+UTEP,173.5
+Texas,174.3
+Northwestern,174.5
+Wake Forest,175.0
+Toledo,179.5
+Washington,180.0
+Virginia,181.5
+Michigan,182.3
+Georgia Tech,183.0
+Maryland,184.0
+Wyoming,184.5
+Purdue,184.5
+UCLA,187.0
+Mississippi,187.0
+Vanderbilt,188.0
+Washington St,190.0
+W Michigan,191.7
+Iowa St,192.7
+Minnesota,193.0
+South Carolina,199.0
+Baylor,201.5
+LSU,204.3
+Troy,204.5
+W Kentucky,205.0
+Memphis,206.0
+Boston College,208.5
+App State,210.5
+Texas A&M,211.7
+San Jose St,216.0
+Texas St,218.3
+Pittsburgh,218.5
+Auburn,220.0
+Texas Tech,220.0
+UNLV,221.0
+Illinois,223.5
+Miami OH,223.5
+Wisconsin,224.3
+Middle Tenn,224.5
+UAB,225.0
+Colorado,225.7
+Florida Atlantic,226.0
+Colorado St,226.0
+Utah St,226.3
+California,226.5
+E Michigan,227.0
+Clemson,227.3
+New Mexico St,228.0
+Old Dominion,229.5
+Arizona St,231.5
+USC,233.0
+New Mexico,234.0
+Tulane,235.0
+Virginia Tech,237.7
+Stanford,239.3
+Fresno St,240.7
+Florida,241.5
+Missouri St,242.7
+Temple,243.0
+Arkansas,244.5
+E Carolina,245.0
+Rutgers,245.0
+Kennesaw St,249.0
+Georgia,250.0
+Florida St,254.0
+N Illinois,254.0
+Boise St,255.0
+Navy,255.0
+UMass,255.0
+Kansas,256.5
+Miami,256.5
+San Diego St,257.0
+Cincinnati,258.5
+Louisiana Tech,259.0
+Ohio,259.0
+Syracuse,260.5
+Bowling Green,263.5
+Oregon St,266.3
+North Carolina,267.0
+Georgia So,267.3
+Florida Intl,271.5
+West Virginia,275.0
+Nevada,275.0
+Kentucky,278.3
+Charlotte,279.5
+Jacksonville St,280.0
+Notre Dame,282.5
+Duke,283.0
+S Florida,283.0
+Buffalo,284.5
+Arkansas St,287.0
+Air Force,287.0
+UTSA,288.5
+Michigan St,289.0
+Tennessee,289.0
+Coastal Car,291.5
+C Michigan,294.3
+NC State,297.3
+Georgia St,298.0
+Ball St,305.5
+Delaware,306.5
+Sam Houston,314.7
+Marshall,318.5
+Oklahoma St,319.0
+Southern Miss,327.0
+UConn,340.5
+Kent St,344.5
+SMU,357.5
+Akron,365.0
+UL Monroe,371.0

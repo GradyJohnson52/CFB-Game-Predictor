@@ -1,135 +1,137 @@
 1,2
-Ohio St,12.9
-Texas,15.3
-Notre Dame,15.5
-Mississippi,15.6
-Army,16.2
-Penn St,16.5
-Indiana,16.7
-Tennessee,17.2
-Alabama,18.3
-Minnesota,18.3
-S Carolina,18.6
-Miami (OH),18.8
-N Illinois,18.8
-Ohio,19.1
-Iowa,19.3
-Oregon,19.8
-Michigan,19.9
-BYU,20.2
-Sam Hous St,20.5
-Nebraska,20.8
-LA Tech,21.3
-James Mad,21.7
-UNLV,21.8
-Georgia,21.9
-Bowling Grn,22.0
-Missouri,22.1
-Oklahoma,22.2
-Tulane,22.2
-Navy,22.3
-Utah,22.5
-Arizona St,22.6
-Colorado,22.8
-VA Tech,22.8
-Houston,22.9
-Auburn,23.0
-California,23.1
-S Methodist,23.2
-Boise St,23.2
-Texas A&M,23.3
-Liberty,23.5
-Illinois,23.5
-Kentucky,23.5
-Connecticut,23.6
-Wisconsin,24.0
-Florida Intl,24.0
-USC,24.1
-Clemson,24.2
-Texas St,24.3
-Toledo,24.3
-Fresno St,24.4
-Florida,24.4
-Iowa St,24.5
-LSU,24.6
-Marshall,24.8
-Air Force,24.8
-Kansas St,24.8
-Cincinnati,25.0
-Louisiana,25.2
-UCLA,25.3
-Vanderbilt,25.3
-Washington,25.5
-Boston Col,25.8
-Memphis,25.8
-Louisville,26.1
-Jksnville St,26.1
-Duke,26.3
-S Alabama,26.4
-Colorado St,26.5
-W Kentucky,26.5
-Miami,26.7
-TX Christian,26.7
-Rutgers,26.9
-Arkansas,27.1
-Rice,27.1
-GA Tech,27.2
-Buffalo,27.5
-San Jose St,27.8
-Old Dominion,28.0
-Kansas,28.1
-Northwestern,28.1
-Michigan St,28.5
-Baylor,28.7
-GA Southern,28.8
-UCF,29.1
-Hawaii,29.1
-E Carolina,29.3
-Pittsburgh,29.3
-Wyoming,29.4
-N Carolina,29.6
-Nevada,29.8
-Troy,29.9
-Florida St,29.9
-Wash State,29.9
-UL Monroe,30.1
-Virginia,30.2
-Syracuse,30.4
-E Michigan,30.5
-NC State,30.9
-San Diego St,31.0
-Oregon St,31.3
+BYU,3.0
+Penn St,5.5
+Ohio St,8.0
+Utah,8.0
+Oklahoma,8.0
+Maryland,8.0
+Nebraska,8.5
+Oregon,8.5
+LSU,9.0
+Illinois,9.5
+UCF,10.0
+Texas,10.3
+Arizona,11.5
+Memphis,11.5
+Iowa,11.5
+Indiana,11.5
+E Carolina,12.0
+Vanderbilt,13.5
+Auburn,14.0
+TCU,14.0
+Texas Tech,14.0
+Louisville,14.0
+Houston,14.5
+California,14.5
+Michigan,14.7
+Alabama,15.0
+Wyoming,15.5
+Wisconsin,16.0
+Purdue,16.5
+USC,16.7
+Iowa St,16.7
+Florida St,17.0
+Miami,18.0
+Louisiana Tech,18.5
+Minnesota,18.5
+Mississippi St,18.5
+Clemson,19.0
+Florida,19.0
+Arizona St,19.5
+N Illinois,20.0
+Cincinnati,20.0
+N Texas,20.0
+Tulane,20.3
+Missouri,20.5
+West Virginia,20.5
+Georgia Tech,20.5
+Army,21.0
+South Carolina,21.0
+Washington,21.0
+Virginia,21.0
+Wake Forest,21.5
+Mississippi,21.7
+UNLV,22.0
+New Mexico,22.0
+Toledo,22.5
+Kentucky,23.0
+Michigan St,23.0
+Stanford,23.3
+Colorado,23.3
+Navy,23.5
+Rice,23.5
+Bowling Green,23.5
+Kansas St,23.7
+Pittsburgh,24.0
+S Florida,24.0
+Rutgers,24.0
+Fresno St,24.0
+NC State,24.0
+Georgia,24.0
+App State,24.5
+Kansas,24.5
+North Carolina,25.5
+Buffalo,25.5
+Temple,26.0
+Old Dominion,26.5
+Hawai'i,26.7
+San Jose St,27.0
+Charlotte,27.0
+Ohio,27.0
+Jacksonville St,27.3
+Arkansas,27.5
+Troy,27.5
+UTEP,27.5
+Middle Tenn,27.5
+J Madison,28.0
+Southern Miss,28.0
+Liberty,28.5
+Northwestern,28.5
+Texas A&M,28.7
+SMU,29.0
+Nevada,30.0
+Utah St,30.0
+Miami OH,31.0
+Florida Intl,31.0
 W Michigan,31.3
-Maryland,31.4
-Central Mich,31.5
-Kennesaw St,31.8
-UTSA,32.0
-S Florida,32.0
-Fla Atlantic,32.1
-Arkansas St,32.3
-Coastal Car,32.5
-TX El Paso,32.8
-Akron,33.1
-W Virginia,33.4
-Texas Tech,33.5
-Arizona,33.7
-Wake Forest,34.3
-Georgia St,35.0
-Middle Tenn,35.1
-App State,35.2
-North Texas,35.3
-Temple,35.4
-Charlotte,35.9
-Stanford,36.1
-Miss State,36.5
-Oklahoma St,37.0
-UAB,37.1
-N Mex State,38.1
-New Mexico,38.3
-U Mass,38.8
-Utah St,39.9
-S Mississippi,40.3
-Ball St,40.6
-Purdue,43.5
-Tulsa,43.8
-Kent St,46.0
+New Mexico St,31.5
+Tulsa,31.5
+S Alabama,32.0
+Texas St,32.3
+Syracuse,32.5
+Kennesaw St,33.0
+Louisiana,33.0
+Marshall,33.0
+UAB,33.0
+Notre Dame,34.0
+Boise St,34.0
+W Kentucky,34.5
+Tennessee,35.0
+UConn,35.5
+UCLA,36.0
+Washington St,36.0
+San Diego St,36.0
+Boston College,36.0
+Delaware,36.0
+Akron,36.3
+Ball St,36.5
+Virginia Tech,37.7
+Colorado St,38.0
+Oregon St,38.3
+Florida Atlantic,38.5
+Sam Houston,38.7
+Duke,39.5
+Arkansas St,40.0
+Missouri St,40.3
+C Michigan,40.7
+Baylor,41.5
+UTSA,42.5
+Coastal Car,43.0
+UMass,44.5
+Georgia So,45.0
+Kent St,46.5
+Air Force,49.0
+E Michigan,50.0
+Georgia St,50.5
+Oklahoma St,69.0
+UL Monroe,73.0
