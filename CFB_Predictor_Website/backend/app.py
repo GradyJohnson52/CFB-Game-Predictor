@@ -12,12 +12,12 @@ CSV_DIR = os.path.abspath(os.path.join(BASE_DIR, "..", "..", "CSVs"))
 app = Flask(__name__, static_folder=os.path.join(FRONTEND_DIR, "static"), template_folder=FRONTEND_DIR)
 CORS(app)
 
-MODELRF_PATH = os.path.join(BASE_DIR, "Model_pkls/RFB_Last3.pkl")
-MODELXG_PATH  = os.path.join(BASE_DIR, "Model_pkls/trained_modelXG.pkl")
-MODELGS_PATH = os.path.join(BASE_DIR, "Model_pkls/trained_modelGS.pkl")
-SCALERRF_PATH = os.path.join(BASE_DIR, "Model_pkls/scalerRFB3.pkl")
-SCALERXG_PATH = os.path.join(BASE_DIR, "Model_pkls/scalerXG.pkl")
-SCALERGS_PATH = os.path.join(BASE_DIR, "Model_pkls/scalerGS.pkl")
+MODELRF_PATH = os.path.join(ROOT_DIR, "Model_pkls/RFB_Last3.pkl")
+MODELXG_PATH  = os.path.join(ROOT_DIR, "Model_pkls/trained_modelXG.pkl")
+MODELGS_PATH = os.path.join(ROOT_DIR, "Model_pkls/trained_modelGS.pkl")
+SCALERRF_PATH = os.path.join(ROOT_DIR, "Model_pkls/scalerRFB3.pkl")
+SCALERXG_PATH = os.path.join(ROOT_DIR, "Model_pkls/scalerXG.pkl")
+SCALERGS_PATH = os.path.join(ROOT_DIR, "Model_pkls/scalerGS.pkl")
 CSV_PATH = os.path.join(CSV_DIR, "advanced_matchup_data.csv")
 
 with open(MODELRF_PATH, "rb") as f:
