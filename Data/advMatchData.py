@@ -55,16 +55,16 @@ team_df = RD_Table.merge(PD_Table, on='team', how='left') \
     .merge(TD_Table, on='team', how='left') \
     .merge(TO_Table, on='team', how='left') \
     .merge(PR_Table, on='team', how='left') \
-    .merge(WP_Table, on='team', how='left') \
-    .merge(SOS_Table, on='team', how='left')
+    .merge(SOS_Table, on='team', how='left') \
+    .merge(WP_Table, on='team', how='left')
     # .merge(Home_Table, on='team', how='left') \
     # .merge(Away_Table, on='team', how='left') \
 
 # Rename columns to match the features
-team_df.columns = ['team', 'rush_def', 'pass_def', 'rush_off', 'pass_off', 'score_def', 'score_off', 
+team_df.columns = ['team', 'rush_def', 'rush_off', 'pass_off', 'pass_def', 'score_def', 'score_off', 
                     'takeaways', 'giveaways', 'P-rating', 'SOS-rating', 'WinPct']
 
-
+print(team_df)
 # Function to process and scale the data
 def process_team_data(df):
     # Handle missing values for numeric columns

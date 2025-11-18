@@ -13,160 +13,177 @@ import joblib
 import re
 
 # Dictionary to map inconsistent team names between sources
-team_mapping = {
-    'Florida Intl': 'FIU',
-    'Ohio St': 'Ohio State',
-    'Iowa St': 'Iowa State',
-    'Notre Dame': 'Notre Dame',
-    'N Illinois': 'Northern Illinois',
-    'Washington': 'Washington',
-    'Texas': 'Texas',
-    'LA Tech': 'Louisiana Tech',
-    'Sam Hous St': 'Sam Houston State',
-    'UL Monroe': 'Louisiana-Monroe',
-    'Minnesota': 'Minnesota',
-    'Indiana': 'Indiana',
-    'Bowling Grn': 'Bowling Green',
-    'Wisconsin': 'Wisconsin',
-    'W Kentucky': 'Western Kentucky',
-    'Tulane': 'Tulane',
-    'Kentucky': 'Kentucky',
-    'Rice': 'Rice',
-    'Alabama': 'Alabama',
-    'Oregon': 'Oregon',
-    'BYU': 'Brigham Young',
-    'Houston': 'Houston',
-    'U Mass': 'Massachusetts',
-    'UAB': 'Alabama-Birmingham',
-    'Army': 'Army',
-    'Temple': 'Temple',
-    'Tennessee': 'Tennessee',
-    'Penn St': 'Penn State',
-    'Colorado': 'Colorado',
-    'Miami (OH)': 'Miami (OH)',
-    'Missouri': 'Missouri',
-    'TX Christian': 'Texas Christian',
-    'Louisiana': 'Louisiana',
-    'Liberty': 'Liberty',
-    'Air Force': 'Air Force',
-    'Florida St': 'Florida State',
-    'Nevada': 'Nevada',
-    'Marshall': 'Marshall',
-    'S Carolina': 'South Carolina',
-    'Central Mich': 'Central Michigan',
-    'Fresno St': 'Fresno State',
-    'Georgia St': 'Georgia State',
-    'Oklahoma': 'Oklahoma',
-    'Iowa': 'Iowa',
-    'James Mad': 'James Madison',
-    'Toledo': 'Toledo',
-    'Utah': 'Utah',
-    'Charlotte': 'Charlotte',
-    'Oregon St': 'Oregon State',
-    'Texas St': 'Texas State',
+TEAM_MAPPING = {
     'Navy': 'Navy',
-    'Auburn': 'Auburn',
-    'Georgia': 'Georgia',
-    'Michigan St': 'Michigan State',
-    'Troy': 'Troy',
-    'VA Tech': 'Virginia Tech',
-    'Jksnville St': 'Jacksonville State',
+    'Air Force': 'Air Force',
+    'Utah': 'Utah',
+    'Army': 'Army',
+    'Jacksonville State': 'Jacksonville St',
+    'Indiana': 'Indiana',
+    'Missouri': 'Missouri',
+    'James Madison': 'J Madison',
+    'Oregon': 'Oregon',
     'Michigan': 'Michigan',
-    'Ohio': 'Ohio',
-    'Connecticut': 'Connecticut',
-    'S Mississippi': 'Southern Mississippi',
-    'Miami': 'Miami',
-    'Cincinnati': 'Cincinnati',
-    'Nebraska': 'Nebraska',
-    'Duke': 'Duke',
-    'Clemson': 'Clemson',
-    'San Diego St': 'San Diego State',
-    'App State': 'Appalachian State',
-    'Hawaii': 'Hawaii',
-    'Arizona St': 'Arizona State',
-    'California': 'California',
-    'Wyoming': 'Wyoming',
-    'UCF': 'Central Florida',
-    'Syracuse': 'Syracuse',
-    'LSU': 'LSU',
-    'E Michigan': 'Eastern Michigan',
-    'Illinois': 'Illinois',
-    'GA Tech': 'Georgia Tech',
-    'W Michigan': 'Western Michigan',
-    'Coastal Car': 'Coastal Carolina',
-    'TX El Paso': 'Texas-El Paso (UTEP)',
-    'NC State': 'North Carolina State',
-    'S Methodist': 'Southern Methodist',
-    'Florida': 'Florida',
-    'Kansas St': 'Kansas State',
-    'USC': 'Southern California',
-    'UNLV': 'Nevada-Las Vegas',
-    'San Jose St': 'San Jose State',
-    'Northwestern': 'Northwestern',
-    'N Carolina': 'North Carolina',
-    'Mississippi': 'Mississippi',
-    'Old Dominion': 'Old Dominion',
-    'Colorado St': 'Colorado State',
-    'Akron': 'Akron',
-    'Rutgers': 'Rutgers',
-    'Texas A&M': 'Texas A&M',
-    'Fla Atlantic': 'Florida Atlantic',
-    'UCLA': 'UCLA',
-    'Miss State': 'Mississippi State',
-    'Baylor': 'Baylor',
-    'Kennesaw St': 'Kennesaw State',
-    'N Mex State': 'New Mexico State',
-    'E Carolina': 'East Carolina',
-    'Maryland': 'Maryland',
-    'Kansas': 'Kansas',
-    'Louisville': 'Louisville',
-    'Boise St': 'Boise State',
-    'Middle Tenn': 'Middle Tennessee State',
-    'Buffalo': 'Buffalo',
-    'Arizona': 'Arizona',
-    'Vanderbilt': 'Vanderbilt',
-    'Arkansas St': 'Arkansas State',
-    'S Alabama': 'South Alabama',
-    'Kent St': 'Kent State',
+    'Florida State': 'Florida St',
+    'South Florida': 'S Florida',
+    'Georgia Tech': 'Georgia Tech',
+    'Texas State': 'Texas St',
     'Arkansas': 'Arkansas',
-    'Utah St': 'Utah State',
-    'Boston Col': 'Boston College',
-    'GA Southern': 'Georgia Southern',
-    'Pittsburgh': 'Pittsburgh',
-    'W Virginia': 'West Virginia',
+    'Southern California': 'USC',
+    'Texas A&M': 'Texas A&M',
+    'Marshall': 'Marshall',
+    'Rice': 'Rice',
     'Memphis': 'Memphis',
-    'Purdue': 'Purdue',
-    'North Texas': 'North Texas',
-    'Wash State': 'Washington State',
-    'Virginia': 'Virginia',
-    'UTSA': 'Texas-San Antonio (UTSA)',
-    'Ball St': 'Ball State',
-    'New Mexico': 'New Mexico',
-    'Stanford': 'Stanford',
-    'Oklahoma St': 'Oklahoma State',
-    'Wake Forest': 'Wake Forest',
+    'South Alabama': 'S Alabama',
+    'Old Dominion': 'Old Dominion',
+    'Notre Dame': 'Notre Dame',
+    'Cincinnati': 'Cincinnati',
+    'Mississippi': 'Mississippi',
+    'East Carolina': 'E Carolina',
+    'Ohio': 'Ohio',
+    'North Texas': 'N Texas',
+    'Arizona State': 'Arizona St',
+    'Vanderbilt': 'Vanderbilt',
+    'Virginia Tech': 'Virginia Tech',
+    'Georgia': 'Georgia',
+    'Louisiana Tech': 'Louisiana Tech',
+    'Central Michigan': 'C Michigan',
+    'Brigham Young': 'BYU',
+    'San Diego State': 'San Diego St',
     'Texas Tech': 'Texas Tech',
-    'S Florida': 'South Florida',
-    'Tulsa': 'Tulsa'
+    'Nevada-Las Vegas': 'UNLV',
+    'Florida International': 'Florida Intl',
+    'Tulane': 'Tulane',
+    'Northwestern': 'Northwestern',
+    'Liberty': 'Liberty',
+    'Louisiana': 'Louisiana',
+    'Central Florida': 'UCF',
+    'Toledo': 'Toledo',
+    'Iowa': 'Iowa',
+    'Boise State': 'Boise St',
+    'Coastal Carolina': 'Coastal Car',
+    'Auburn': 'Auburn',
+    'Tennessee': 'Tennessee',
+    'Texas-San Antonio': 'UTSA',
+    'Virginia': 'Virginia',
+    'UCLA': 'UCLA',
+    'Northern Illinois': 'N Illinois',
+    'West Virginia': 'West Virginia',
+    'Houston': 'Houston',
+    'Iowa State': 'Iowa St',
+    'Kennesaw State': 'Kennesaw St',
+    'Southern Mississippi': 'Southern Miss',
+    'North Carolina State': 'NC State',
+    'Louisiana-Monroe': 'UL Monroe',
+    'Western Michigan': 'W Michigan',
+    'Arizona': 'Arizona',
+    'Bowling Green': 'Bowling Green',
+    'Miami (OH)': 'Miami OH',
+    'Connecticut': 'UConn',
+    'Miami (FL)': 'Miami',
+    'New Mexico': 'New Mexico',
+    'Louisville': 'Louisville',
+    'Wyoming': 'Wyoming',
+    'Washington': 'Washington',
+    'Fresno State': 'Fresno St',
+    'Kentucky': 'Kentucky',
+    'Penn State': 'Penn St',
+    'Kansas': 'Kansas',
+    'Mississippi State': 'Mississippi St',
+    'Temple': 'Temple',
+    'Oklahoma': 'Oklahoma',
+    'Kansas State': 'Kansas St',
+    'Eastern Michigan': 'E Michigan',
+    'Sam Houston': 'Sam Houston',
+    'Ohio State': 'Ohio St',
+    'Texas': 'Texas',
+    'Utah State': 'Utah St',
+    'Tulsa': 'Tulsa',
+    'Purdue': 'Purdue',
+    'Duke': 'Duke',
+    'Baylor': 'Baylor',
+    'Arkansas State': 'Arkansas St',
+    'Colorado': 'Colorado',
+    'Georgia Southern': 'Georgia So',
+    'Colorado State': 'Colorado St',
+    'Nebraska': 'Nebraska',
+    'Oklahoma State': 'Oklahoma St',
+    'Rutgers': 'Rutgers',
+    'Clemson': 'Clemson',
+    'Texas Christian': 'TCU',
+    'Akron': 'Akron',
+    'Wake Forest': 'Wake Forest',
+    'Illinois': 'Illinois',
+    'Pittsburgh': 'Pittsburgh',
+    'Michigan State': 'Michigan St',
+    'Alabama': 'Alabama',
+    'Nevada': 'Nevada',
+    'Buffalo': 'Buffalo',
+    'Washington State': 'Washington St',
+    'Appalachian State': 'App State',
+    'Missouri State': 'Missouri St',
+    'Western Kentucky': 'W Kentucky',
+    'Florida': 'Florida',
+    'North Carolina': 'North Carolina',
+    'Ball State': 'Ball St',
+    'San Jose State': 'San Jose St',
+    'Wisconsin': 'Wisconsin',
+    'Southern Methodist': 'SMU',
+    'Georgia State': 'Georgia St',
+    'Oregon State': 'Oregon St',
+    'Alabama-Birmingham': 'UAB',
+    'Syracuse': 'Syracuse',
+    'Louisiana State': 'LSU',
+    'Troy': 'Troy',
+    "Hawaii": 'Hawai\'i',
+    'South Carolina': 'South Carolina',
+    'Texas-El Paso': 'UTEP',
+    'Charlotte': 'Charlotte',
+    'Minnesota': 'Minnesota',
+    'Boston College': 'Boston College',
+    'Middle Tennessee State': 'Middle Tenn',
+    'Florida Atlantic': 'Florida Atlantic',
+    'Kent State': 'Kent St',
+    'Maryland': 'Maryland',
+    'Stanford': 'Stanford',
+    'Massachusetts': 'UMass',
+    'New Mexico State': 'New Mexico St',
+    'California': 'California',
+    'Delaware': 'Delaware'
 }
 
-# test model on 2024 games
-# train_url = "https://www.sports-reference.com/cfb/years/2024-schedule.html"
-# response = requests.get(train_url)
-# resp_soup = soup(response.content, 'html.parser')
-# train_table = resp_soup.find("table", {'class':'sortable stats_table'})
-# train_rows = table.find_all('tr')
-
-def clean_team_name(raw_name):
-    return re.sub(r'\([^)]*\)', '', raw_name).strip()
-
+def clean_team_name(name):
+    if not isinstance(name, str):
+        return name
+    name = re.sub(r"\([^)]*\d+[^)]*\)", "", name)
+    name = re.sub(r"\s+", " ", name).strip()
+    return name.strip()
 
 def standardize_team_name(team_name):
-    return team_mapping.get(team_name, team_name)
+    if not isinstance(team_name, str):
+        return team_name
+
+    # normalize whitespace and punctuation
+    name = team_name.strip()
+    name = name.replace('\xa0', ' ')  # replace non-breaking spaces
+    name = re.sub(r'\s+', ' ', name)  # collapse double spaces
+    name = name.replace('–', '-')     # normalize dash types
+    name = name.replace(' ', ' ')     
+    return TEAM_MAPPING.get(team_name, team_name)
 
 
 def scrape_game_results():
     urls = {
+        2005 : "https://www.sports-reference.com/cfb/years/2005-schedule.html",
+        2006 : "https://www.sports-reference.com/cfb/years/2006-schedule.html",
+        2007 : "https://www.sports-reference.com/cfb/years/2007-schedule.html",
+        2008 : "https://www.sports-reference.com/cfb/years/2008-schedule.html",
+        2009 : "https://www.sports-reference.com/cfb/years/2009-schedule.html",
+        2010 : "https://www.sports-reference.com/cfb/years/2010-schedule.html",
+        2011 : "https://www.sports-reference.com/cfb/years/2011-schedule.html",
+        2012 : "https://www.sports-reference.com/cfb/years/2012-schedule.html",
+        2013 : "https://www.sports-reference.com/cfb/years/2013-schedule.html",
+        2014 : "https://www.sports-reference.com/cfb/years/2014-schedule.html",
         2015 : "https://www.sports-reference.com/cfb/years/2015-schedule.html",
         2016 : "https://www.sports-reference.com/cfb/years/2016-schedule.html",
         2017 : "https://www.sports-reference.com/cfb/years/2017-schedule.html",
@@ -176,31 +193,46 @@ def scrape_game_results():
         2021 : "https://www.sports-reference.com/cfb/years/2021-schedule.html",
         2022 : "https://www.sports-reference.com/cfb/years/2022-schedule.html",
         2023 : "https://www.sports-reference.com/cfb/years/2023-schedule.html",
-        2024 : "https://www.sports-reference.com/cfb/years/2024-schedule.html",
+        2024 : "https://www.sports-reference.com/cfb/years/2024-schedule.html"
     }
 
     games_data = []
     for year, url in urls.items():
         print(f"Scraping {url}...")
-        response = requests.get(url)
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15"
+        }
+        response = requests.get(url, headers=headers)
         soup = BeautifulSoup(response.content, 'html.parser')
 
         table = soup.find("table", {'class':'sortable stats_table'})
         rows = table.find_all('tr')
         
         
+        
         for row in rows:
             cells = row.find_all('td')
             if len(cells) > 0:
                 try:
-                    date = datetime.strptime(cells[1].text.strip(), "%b %d, %Y").strftime("%Y-%m-%d")
-                    week = int(cells[0].text.strip())
-                    winner = standardize_team_name(clean_team_name(cells[4].text.strip()))
-                    loser = standardize_team_name(clean_team_name(cells[7].text.strip()))
-                    winner_pts = int(cells[5].text.strip())
-                    loser_pts = int(cells[8].text.strip())
-                    point_diff = winner_pts - loser_pts
+                    if year > 2012:
+                        date = datetime.strptime(cells[1].text.strip(), "%b %d, %Y").strftime("%Y-%m-%d")
+                        week = int(cells[0].text.strip())
+                        winner = standardize_team_name(clean_team_name(cells[4].text.strip()))
+                        loser = standardize_team_name(clean_team_name(cells[7].text.strip()))
+                        winner_pts = int(cells[5].text.strip())
+                        loser_pts = int(cells[8].text.strip())
+                        point_diff = winner_pts - loser_pts
+                    else:
+                        date = datetime.strptime(cells[1].text.strip(), "%b %d, %Y").strftime("%Y-%m-%d")
+                        week = int(cells[0].text.strip())
+                        winner = standardize_team_name(clean_team_name(cells[3].text.strip()))
+                        loser = standardize_team_name(clean_team_name(cells[6].text.strip()))
+                        winner_pts = int(cells[4].text.strip())
+                        loser_pts = int(cells[7].text.strip())
+                        point_diff = winner_pts - loser_pts
+
                 except ValueError:
+                    print("Value Error")
                     continue
 
                 games_data.append({
@@ -258,7 +290,7 @@ def scrape_stats(date):
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15"
         }
         response = requests.get(url, headers=headers)
-        time.sleep(random.uniform(0.1, 0.5))
+        time.sleep(random.uniform(0.5, 2.5))
         if not response.ok:
             print(f"Failed to fetch {url} (status {response.status_code})")
             continue
@@ -335,7 +367,7 @@ def update_model(games_df, stats_dict, model, scaler):
             }
 
             if any(v is None for v in list(stats_winner.values()) + list(stats_loser.values())):
-                print(f"Skipping {winner} vs {loser} on {date} due to missing stat(s).")
+                print(f"Skipping {winner} vs {loser} on {date} due to missing stats")
                 continue
 
             # Winner 3 or 2
