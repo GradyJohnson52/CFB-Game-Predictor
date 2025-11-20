@@ -1,0 +1,1430 @@
+game_idx,team1,team2,actual_winner,team1_winner,week,date,predicted_team1_wins,confidence,correct
+14984,Auburn,California,Auburn,True,3,2023-09-09,0,0.47,False
+14988,Boise St,UCF,UCF,False,3,2023-09-09,1,0.62,False
+14992,Coastal Car,Jacksonville St,Coastal Car,True,3,2023-09-09,0,0.5,False
+14993,Colorado,Nebraska,Colorado,True,3,2023-09-09,0,0.49,False
+14996,N Texas,Florida Intl,Florida Intl,False,3,2023-09-09,0,0.44,True
+15009,New Mexico St,Liberty,Liberty,False,3,2023-09-09,0,0.48,True
+15016,Texas A&M,Miami,Miami,False,3,2023-09-09,0,0.48,True
+15017,UMass,Miami OH,Miami OH,False,3,2023-09-09,1,0.58,False
+15027,Northwestern,UTEP,Northwestern,True,3,2023-09-09,0,0.48,False
+15028,Notre Dame,NC State,Notre Dame,True,3,2023-09-09,0,0.37,False
+15031,Oklahoma,SMU,Oklahoma,True,3,2023-09-09,1,0.54,True
+15037,Virginia Tech,Purdue,Purdue,False,3,2023-09-09,1,0.54,False
+15038,Rice,Houston,Rice,True,3,2023-09-09,0,0.45,False
+15039,Rutgers,Temple,Rutgers,True,3,2023-09-09,0,0.48,False
+15044,Stanford,USC,USC,False,3,2023-09-09,1,0.52,False
+15048,Texas,Alabama,Texas,True,3,2023-09-09,0,0.44,False
+15050,Texas St,UTSA,UTSA,False,3,2023-09-09,0,0.5,True
+15052,San Diego St,UCLA,UCLA,False,3,2023-09-09,0,0.45,True
+15053,Baylor,Utah,Utah,False,3,2023-09-09,0,0.35,True
+15057,Washington St,Wisconsin,Washington St,True,3,2023-09-09,0,0.48,False
+15062,Memphis,Navy,Memphis,True,4,2023-09-14,1,0.53,True
+15064,Air Force,Utah St,Air Force,True,4,2023-09-15,1,0.59,True
+15065,UTSA,Army,Army,False,4,2023-09-15,0,0.41,True
+15066,Virginia,Maryland,Maryland,False,4,2023-09-15,1,0.59,False
+15067,Alabama,S Florida,Alabama,True,4,2023-09-16,0,0.42,False
+15068,E Carolina,App State,App State,False,4,2023-09-16,1,0.51,False
+15069,Arizona,UTEP,Arizona,True,4,2023-09-16,0,0.38,False
+15075,Arkansas,BYU,BYU,False,4,2023-09-16,1,0.59,False
+15078,Florida Atlantic,Clemson,Clemson,False,4,2023-09-16,1,0.55,False
+15080,Colorado,Colorado St,Colorado,True,4,2023-09-16,0,0.46,False
+15081,Northwestern,Duke,Duke,False,4,2023-09-16,0,0.5,True
+15082,UMass,E Michigan,E Michigan,False,4,2023-09-16,0,0.44,True
+15083,Florida,Tennessee,Florida,True,4,2023-09-16,0,0.37,False
+15084,Florida Intl,UConn,Florida Intl,True,4,2023-09-16,1,0.65,True
+15085,Boston College,Florida St,Florida St,False,4,2023-09-16,0,0.48,True
+15086,Fresno St,Arizona St,Fresno St,True,4,2023-09-16,1,0.58,True
+15087,South Carolina,Georgia,Georgia,False,4,2023-09-16,1,0.55,False
+15088,Charlotte,Georgia St,Georgia St,False,4,2023-09-16,1,0.64,False
+15089,Iowa,W Michigan,Iowa,True,4,2023-09-16,1,0.61,True
+15090,J Madison,Troy,J Madison,True,4,2023-09-16,1,0.61,True
+15091,Nevada,Kansas,Kansas,False,4,2023-09-16,0,0.46,True
+15093,Akron,Kentucky,Kentucky,False,4,2023-09-16,0,0.49,True
+15094,Buffalo,Liberty,Liberty,False,4,2023-09-16,1,0.55,False
+15095,Louisiana,UAB,Louisiana,True,4,2023-09-16,0,0.47,False
+15096,LSU,Mississippi St,LSU,True,4,2023-09-16,0,0.48,False
+15097,Indiana,Louisville,Louisville,False,4,2023-09-16,1,0.54,False
+15098,Miami OH,Cincinnati,Miami OH,True,4,2023-09-16,0,0.49,False
+15099,Michigan,Bowling Green,Michigan,True,4,2023-09-16,1,0.52,True
+15101,Mississippi,Georgia Tech,Mississippi,True,4,2023-09-16,1,0.62,True
+15102,Kansas St,Missouri,Missouri,False,4,2023-09-16,0,0.41,True
+15103,Nebraska,N Illinois,Nebraska,True,4,2023-09-16,1,0.58,True
+15104,Vanderbilt,UNLV,UNLV,False,4,2023-09-16,0,0.49,True
+15105,New Mexico St,New Mexico,New Mexico St,True,4,2023-09-16,0,0.42,False
+15106,North Carolina,Minnesota,North Carolina,True,4,2023-09-16,1,0.53,True
+15108,Louisiana Tech,N Texas,N Texas,False,4,2023-09-16,0,0.42,True
+15109,C Michigan,Notre Dame,Notre Dame,False,4,2023-09-16,1,0.51,False
+15110,Ohio,Iowa St,Ohio,True,4,2023-09-16,0,0.49,False
+15111,Ohio St,W Kentucky,Ohio St,True,4,2023-09-16,0,0.5,False
+15112,Oklahoma,Tulsa,Oklahoma,True,4,2023-09-16,0,0.46,False
+15113,Oregon,Hawai'i,Oregon,True,4,2023-09-16,0,0.45,False
+15114,San Diego St,Oregon St,Oregon St,False,4,2023-09-16,0,0.39,True
+15115,Illinois,Penn St,Penn St,False,4,2023-09-16,0,0.43,True
+15117,Rutgers,Virginia Tech,Rutgers,True,4,2023-09-16,0,0.33,False
+15119,S Alabama,Oklahoma St,S Alabama,True,4,2023-09-16,0,0.23,False
+15121,Purdue,Syracuse,Syracuse,False,4,2023-09-16,0,0.45,True
+15123,Wyoming,Texas,Texas,False,4,2023-09-16,0,0.39,True
+15124,Texas A&M,UL Monroe,Texas A&M,True,4,2023-09-16,1,0.55,True
+15125,TCU,Houston,TCU,True,4,2023-09-16,1,0.55,True
+15128,Toledo,San Jose St,Toledo,True,4,2023-09-16,1,0.57,True
+15129,Tulane,Southern Miss,Tulane,True,4,2023-09-16,1,0.51,True
+15132,Old Dominion,Wake Forest,Wake Forest,False,4,2023-09-16,0,0.4,True
+15133,Michigan St,Washington,Washington,False,4,2023-09-16,1,0.58,False
+15135,West Virginia,Pittsburgh,West Virginia,True,4,2023-09-16,0,0.5,False
+15136,Wisconsin,Georgia So,Wisconsin,True,4,2023-09-16,0,0.47,False
+15137,Georgia St,Coastal Car,Georgia St,True,5,2023-09-21,0,0.5,False
+15138,San Jose St,Air Force,Air Force,False,5,2023-09-22,0,0.4,True
+15139,Boise St,San Diego St,Boise St,True,5,2023-09-22,0,0.38,False
+15140,Virginia,NC State,NC State,False,5,2023-09-22,0,0.46,True
+15141,Wisconsin,Purdue,Wisconsin,True,5,2023-09-22,0,0.41,False
+15142,Mississippi,Alabama,Alabama,False,5,2023-09-23,1,0.54,False
+15143,Arizona,Stanford,Arizona,True,5,2023-09-23,0,0.34,False
+15144,Arkansas St,Southern Miss,Arkansas St,True,5,2023-09-23,0,0.4,False
+15145,S Alabama,C Michigan,C Michigan,False,5,2023-09-23,1,0.62,False
+15146,Colorado St,Middle Tenn,Colorado St,True,5,2023-09-23,0,0.37,False
+15147,Duke,UConn,Duke,True,5,2023-09-23,1,0.52,True
+15149,Florida,Charlotte,Florida,True,5,2023-09-23,1,0.53,True
+15150,Clemson,Florida St,Florida St,False,5,2023-09-23,0,0.43,True
+15151,Kent St,Fresno St,Fresno St,False,5,2023-09-23,0,0.28,True
+15152,UAB,Georgia,Georgia,False,5,2023-09-23,1,0.67,False
+15153,Georgia So,Ball St,Georgia So,True,5,2023-09-23,1,0.58,True
+15154,Wake Forest,Georgia Tech,Georgia Tech,False,5,2023-09-23,1,0.59,False
+15155,Houston,Sam Houston,Houston,True,5,2023-09-23,0,0.42,False
+15156,Illinois,Florida Atlantic,Illinois,True,5,2023-09-23,0,0.43,False
+15157,Indiana,Akron,Indiana,True,5,2023-09-23,1,0.68,True
+15158,Oklahoma St,Iowa St,Iowa St,False,5,2023-09-23,1,0.56,False
+15159,Jacksonville St,E Michigan,Jacksonville St,True,5,2023-09-23,1,0.6,True
+15160,J Madison,Utah St,J Madison,True,5,2023-09-23,1,0.61,True
+15161,BYU,Kansas,Kansas,False,5,2023-09-23,0,0.43799999999999994,True
+15162,Kansas St,UCF,Kansas St,True,5,2023-09-23,0,0.47,False
+15163,Kentucky,Vanderbilt,Kentucky,True,5,2023-09-23,0,0.49,False
+15164,Florida Intl,Liberty,Liberty,False,5,2023-09-23,1,0.59,False
+15165,Buffalo,Louisiana,Louisiana,False,5,2023-09-23,0,0.5,True
+15166,LSU,Arkansas,LSU,True,5,2023-09-23,1,0.61,True
+15167,Louisville,Boston College,Louisville,True,5,2023-09-23,0,0.42,False
+15168,Marshall,Virginia Tech,Marshall,True,5,2023-09-23,1,0.6,True
+15169,Michigan St,Maryland,Maryland,False,5,2023-09-23,0,0.43,True
+15170,Miami,Temple,Miami,True,5,2023-09-23,0,0.47,False
+15172,Rutgers,Michigan,Michigan,False,5,2023-09-23,1,0.51,False
+15173,Missouri,Memphis,Missouri,True,5,2023-09-23,0,0.4,False
+15174,Nebraska,Louisiana Tech,Nebraska,True,5,2023-09-23,0,0.37,False
+15175,UNLV,UTEP,UNLV,True,5,2023-09-23,1,0.52,True
+15176,New Mexico,UMass,New Mexico,True,5,2023-09-23,1,0.51,True
+15177,North Carolina,Pittsburgh,North Carolina,True,5,2023-09-23,1,0.53,True
+15178,Minnesota,Northwestern,Northwestern,False,5,2023-09-23,1,0.59,False
+15179,Bowling Green,Ohio,Ohio,False,5,2023-09-23,0,0.47,True
+15180,Notre Dame,Ohio St,Ohio St,False,5,2023-09-23,0,0.47,True
+15181,Cincinnati,Oklahoma,Oklahoma,False,5,2023-09-23,1,0.52,False
+15183,Colorado,Oregon,Oregon,False,5,2023-09-23,1,0.6,False
+15184,Iowa,Penn St,Penn St,False,5,2023-09-23,0,0.37,True
+15185,Mississippi St,South Carolina,South Carolina,False,5,2023-09-23,0,0.43,True
+15186,S Florida,Rice,S Florida,True,5,2023-09-23,1,0.55,True
+15187,Arizona St,USC,USC,False,5,2023-09-23,0,0.33,True
+15188,Army,Syracuse,Syracuse,False,5,2023-09-23,1,0.68,False
+15189,UTSA,Tennessee,Tennessee,False,5,2023-09-23,1,0.52,False
+15190,Baylor,Texas,Texas,False,5,2023-09-23,1,0.54,False
+15191,Texas A&M,Auburn,Texas A&M,True,5,2023-09-23,0,0.47,False
+15192,TCU,SMU,TCU,True,5,2023-09-23,1,0.6,True
+15193,Nevada,Texas St,Texas St,False,5,2023-09-23,1,0.56,False
+15194,W Michigan,Toledo,Toledo,False,5,2023-09-23,0,0.38,True
+15195,Troy,W Kentucky,Troy,True,5,2023-09-23,0,0.47,False
+15197,N Illinois,Tulsa,Tulsa,False,5,2023-09-23,0,0.35,True
+15198,UCLA,Utah,Utah,False,5,2023-09-23,0,0.39,True
+15199,California,Washington,Washington,False,5,2023-09-23,0,0.38,True
+15200,Oregon St,Washington St,Washington St,False,5,2023-09-23,1,0.58,False
+15201,Texas Tech,West Virginia,West Virginia,False,5,2023-09-23,0,0.28,True
+15202,App State,Wyoming,Wyoming,False,5,2023-09-23,0,0.49,True
+15203,New Mexico St,Hawai'i,Hawai'i,False,5,2023-09-24,1,0.61,False
+15204,Sam Houston,Jacksonville St,Jacksonville St,False,6,2023-09-28,1,0.58,False
+15205,Tulsa,Temple,Tulsa,True,6,2023-09-28,1,0.56,True
+15206,W Kentucky,Middle Tenn,W Kentucky,True,6,2023-09-28,0,0.49,False
+15207,BYU,Cincinnati,BYU,True,6,2023-09-29,0,0.41,False
+15208,Louisiana Tech,UTEP,Louisiana Tech,True,6,2023-09-29,0,0.4975,False
+15209,NC State,Louisville,Louisville,False,6,2023-09-29,0,0.27,True
+15210,Utah,Oregon St,Oregon St,False,6,2023-09-29,1,0.52,False
+15211,San Diego St,Air Force,Air Force,False,6,2023-09-30,1,0.51,False
+15212,Mississippi St,Alabama,Alabama,False,6,2023-09-30,0,0.41,True
+15213,UL Monroe,App State,App State,False,6,2023-09-30,0,0.38,True
+15214,UMass,Arkansas St,Arkansas St,False,6,2023-09-30,0,0.49,True
+15215,UCF,Baylor,Baylor,False,6,2023-09-30,1,0.64,False
+15216,Virginia,Boston College,Boston College,False,6,2023-09-30,0,0.4075,True
+15217,Bowling Green,Georgia Tech,Bowling Green,True,6,2023-09-30,1,0.58,True
+15218,Akron,Buffalo,Buffalo,False,6,2023-09-30,0,0.42,True
+15219,California,Arizona St,California,True,6,2023-09-30,0,0.48,False
+15220,C Michigan,E Michigan,C Michigan,True,6,2023-09-30,1,0.52,True
+15221,Clemson,Syracuse,Clemson,True,6,2023-09-30,1,0.51,True
+15223,Nevada,Fresno St,Fresno St,False,6,2023-09-30,0,0.44,True
+15224,Georgia,Auburn,Georgia,True,6,2023-09-30,0,0.38,False
+15225,Georgia So,Coastal Car,Georgia So,True,6,2023-09-30,0,0.46,False
+15226,Michigan St,Iowa,Iowa,False,6,2023-09-30,0,0.39,True
+15227,S Alabama,J Madison,J Madison,False,6,2023-09-30,0,0.45,True
+15228,Kentucky,Florida,Kentucky,True,6,2023-09-30,1,0.68,True
+15229,Old Dominion,Marshall,Marshall,False,6,2023-09-30,0,0.49,True
+15230,Indiana,Maryland,Maryland,False,6,2023-09-30,0,0.44,True
+15231,Memphis,Boise St,Memphis,True,6,2023-09-30,0,0.45,False
+15232,Miami OH,Kent St,Miami OH,True,6,2023-09-30,0,0.36,False
+15233,Nebraska,Michigan,Michigan,False,6,2023-09-30,1,0.53,False
+15234,Louisiana,Minnesota,Minnesota,False,6,2023-09-30,1,0.53,False
+15235,Mississippi,LSU,Mississippi,True,6,2023-09-30,1,0.55,True
+15236,Missouri,Vanderbilt,Missouri,True,6,2023-09-30,0,0.44,False
+15237,UNLV,Hawai'i,UNLV,True,6,2023-09-30,1,0.54,True
+15239,Notre Dame,Duke,Notre Dame,True,6,2023-09-30,1,0.65,True
+15240,Iowa St,Oklahoma,Oklahoma,False,6,2023-09-30,1,0.53,False
+15241,Stanford,Oregon,Oregon,False,6,2023-09-30,1,0.56,False
+15242,Northwestern,Penn St,Penn St,False,6,2023-09-30,1,0.52,False
+15243,Purdue,Illinois,Purdue,True,6,2023-09-30,0,0.5,False
+15244,E Carolina,Rice,Rice,False,6,2023-09-30,0,0.41,True
+15246,Navy,S Florida,S Florida,False,6,2023-09-30,0,0.42,True
+15247,Colorado,USC,USC,False,6,2023-09-30,0,0.41,True
+15248,Charlotte,SMU,SMU,False,6,2023-09-30,1,0.55,False
+15249,South Carolina,Tennessee,Tennessee,False,6,2023-09-30,0,0.46,True
+15250,Kansas,Texas,Texas,False,6,2023-09-30,1,0.56,False
+15251,Texas A&M,Arkansas,Texas A&M,True,6,2023-09-30,0,0.5,False
+15252,Texas St,Southern Miss,Texas St,True,6,2023-09-30,1,0.68,True
+15253,Houston,Texas Tech,Texas Tech,False,6,2023-09-30,1,0.61,False
+15254,Toledo,N Illinois,Toledo,True,6,2023-09-30,0,0.38,False
+15255,Troy,Georgia St,Troy,True,6,2023-09-30,0,0.39,False
+15256,Tulane,UAB,Tulane,True,6,2023-09-30,0,0.5,False
+15257,Utah St,UConn,Utah St,True,6,2023-09-30,1,0.56,True
+15258,Pittsburgh,Virginia Tech,Virginia Tech,False,6,2023-09-30,1,0.52,False
+15259,Arizona,Washington,Washington,False,6,2023-09-30,1,0.53,False
+15260,TCU,West Virginia,West Virginia,False,6,2023-09-30,0,0.39,True
+15261,W Michigan,Ball St,W Michigan,True,6,2023-09-30,0,0.46,False
+15262,New Mexico,Wyoming,Wyoming,False,6,2023-09-30,0,0.36,True
+15263,Jacksonville St,Middle Tenn,Jacksonville St,True,7,2023-10-04,1,0.65,True
+15264,New Mexico St,Florida Intl,New Mexico St,True,7,2023-10-04,1,0.57,True
+15265,Liberty,Sam Houston,Liberty,True,7,2023-10-05,1,0.66,True
+15266,Louisiana Tech,W Kentucky,W Kentucky,False,7,2023-10-05,1,0.59,False
+15267,Illinois,Nebraska,Nebraska,False,7,2023-10-06,1,0.57,False
+15268,Kansas St,Oklahoma St,Oklahoma St,False,7,2023-10-06,0,0.35,True
+15269,Alabama,Texas A&M,Alabama,True,7,2023-10-07,1,0.64,True
+15270,UAB,S Florida,UAB,True,7,2023-10-07,0,0.44,False
+15271,San Jose St,Boise St,Boise St,False,7,2023-10-07,0,0.43,True
+15272,Boston College,Army,Boston College,True,7,2023-10-07,0,0.41,False
+15273,Buffalo,C Michigan,Buffalo,True,7,2023-10-07,0,0.47,False
+15274,Clemson,Wake Forest,Clemson,True,7,2023-10-07,1,0.61,True
+15275,Colorado,Arizona St,Colorado,True,7,2023-10-07,0,0.4,False
+15276,UConn,Rice,UConn,True,7,2023-10-07,0,0.42,False
+15277,E Michigan,Ball St,E Michigan,True,7,2023-10-07,1,0.63,True
+15278,Florida,Vanderbilt,Florida,True,7,2023-10-07,1,0.6,True
+15279,Tulsa,Florida Atlantic,Florida Atlantic,False,7,2023-10-07,0,0.41,True
+15280,Virginia Tech,Florida St,Florida St,False,7,2023-10-07,1,0.59,False
+15281,Georgia,Kentucky,Georgia,True,7,2023-10-07,0,0.42,False
+15282,Miami,Georgia Tech,Georgia Tech,False,7,2023-10-07,1,0.56,False
+15283,Purdue,Iowa,Iowa,False,7,2023-10-07,0,0.38,True
+15284,TCU,Iowa St,Iowa St,False,7,2023-10-07,0,0.47,True
+15285,Kansas,UCF,Kansas,True,7,2023-10-07,1,0.61,True
+15286,Louisiana,Texas St,Louisiana,True,7,2023-10-07,0,0.45,False
+15287,LSU,Missouri,LSU,True,7,2023-10-07,1,0.58,True
+15288,Notre Dame,Louisville,Louisville,False,7,2023-10-07,1,0.67,False
+15289,Bowling Green,Miami OH,Miami OH,False,7,2023-10-07,0,0.45,True
+15290,Michigan,Minnesota,Michigan,True,7,2023-10-07,0,0.34,False
+15291,Mississippi,Arkansas,Mississippi,True,7,2023-10-07,0,0.495,False
+15292,W Michigan,Mississippi St,Mississippi St,False,7,2023-10-07,1,0.53,False
+15293,N Texas,Navy,Navy,False,7,2023-10-07,0,0.45,True
+15294,North Carolina,Syracuse,North Carolina,True,7,2023-10-07,1,0.56,True
+15295,Marshall,NC State,NC State,False,7,2023-10-07,1,0.53,False
+15296,N Illinois,Akron,N Illinois,True,7,2023-10-07,0,0.49,False
+15298,Ohio,Kent St,Ohio,True,7,2023-10-07,0,0.49,False
+15299,Maryland,Ohio St,Ohio St,False,7,2023-10-07,1,0.55,False
+15300,Texas,Oklahoma,Oklahoma,False,7,2023-10-07,0,0.49333333333333335,True
+15301,Old Dominion,Southern Miss,Old Dominion,True,7,2023-10-07,1,0.51,True
+15302,Oregon St,California,Oregon St,True,7,2023-10-07,1,0.64,True
+15303,S Alabama,UL Monroe,S Alabama,True,7,2023-10-07,1,0.58,True
+15304,Arizona,USC,USC,False,7,2023-10-07,0,0.45,True
+15305,Texas Tech,Baylor,Texas Tech,True,7,2023-10-07,0,0.47,False
+15306,Temple,UTSA,UTSA,False,7,2023-10-07,1,0.54,False
+15307,Toledo,UMass,Toledo,True,7,2023-10-07,0,0.37,False
+15308,Arkansas St,Troy,Troy,False,7,2023-10-07,1,0.52,False
+15309,UCLA,Washington St,UCLA,True,7,2023-10-07,1,0.59,True
+15310,Utah St,Colorado St,Utah St,True,7,2023-10-07,1,0.6,True
+15312,Wisconsin,Rutgers,Wisconsin,True,7,2023-10-07,1,0.54,True
+15313,Wyoming,Fresno St,Wyoming,True,7,2023-10-07,1,0.64,True
+15314,App State,Coastal Car,Coastal Car,False,8,2023-10-10,1,0.53,False
+15315,Liberty,Jacksonville St,Liberty,True,8,2023-10-10,1,0.55,True
+15316,Middle Tenn,Louisiana Tech,Middle Tenn,True,8,2023-10-10,0,0.42,False
+15317,Sam Houston,New Mexico St,New Mexico St,False,8,2023-10-11,1,0.55,False
+15318,Florida Intl,UTEP,UTEP,False,8,2023-10-11,1,0.59,False
+15319,West Virginia,Houston,Houston,False,8,2023-10-12,1,0.6,False
+15320,SMU,E Carolina,SMU,True,8,2023-10-12,1,0.57,True
+15321,Fresno St,Utah St,Fresno St,True,8,2023-10-13,1,0.62,True
+15322,Colorado,Stanford,Stanford,False,8,2023-10-13,0,0.5,True
+15323,Memphis,Tulane,Tulane,False,8,2023-10-13,1,0.54,False
+15324,Air Force,Wyoming,Air Force,True,8,2023-10-14,1,0.66,True
+15325,Alabama,Arkansas,Alabama,True,8,2023-10-14,0,0.5,False
+15326,Arizona,Washington St,Arizona,True,8,2023-10-14,0,0.48,False
+15327,Buffalo,Bowling Green,Bowling Green,False,8,2023-10-14,0,0.46,True
+15328,C Michigan,Akron,C Michigan,True,8,2023-10-14,1,0.645,True
+15329,Boise St,Colorado St,Colorado St,False,8,2023-10-14,0,0.47,True
+15330,Duke,NC State,Duke,True,8,2023-10-14,1,0.53,True
+15331,Kent St,E Michigan,E Michigan,False,8,2023-10-14,0,0.48,True
+15332,South Carolina,Florida,Florida,False,8,2023-10-14,0,0.46,True
+15333,Florida Atlantic,S Florida,Florida Atlantic,True,8,2023-10-14,0,0.49,False
+15334,Florida St,Syracuse,Florida St,True,8,2023-10-14,1,0.55,True
+15335,Georgia,Vanderbilt,Georgia,True,8,2023-10-14,1,0.51,True
+15336,Georgia St,Marshall,Georgia St,True,8,2023-10-14,0,0.47,False
+15337,Illinois,Maryland,Illinois,True,8,2023-10-14,0,0.45,False
+15338,Iowa,Wisconsin,Iowa,True,8,2023-10-14,0,0.4,False
+15339,Iowa St,Cincinnati,Iowa St,True,8,2023-10-14,1,0.53,True
+15340,Georgia So,J Madison,J Madison,False,8,2023-10-14,0,0.42,True
+15341,Kansas St,Texas Tech,Kansas St,True,8,2023-10-14,1,0.63,True
+15342,Auburn,LSU,LSU,False,8,2023-10-14,0,0.43,True
+15343,W Michigan,Miami OH,Miami OH,False,8,2023-10-14,0,0.5,True
+15344,Michigan,Indiana,Michigan,True,8,2023-10-14,1,0.51,True
+15345,Missouri,Kentucky,Missouri,True,8,2023-10-14,0,0.47,False
+15346,Navy,Charlotte,Navy,True,8,2023-10-14,1,0.52,True
+15347,UNLV,Nevada,UNLV,True,8,2023-10-14,1,0.545,True
+15348,Miami,North Carolina,North Carolina,False,8,2023-10-14,1,0.56,False
+15349,N Texas,Temple,N Texas,True,8,2023-10-14,1,0.52,True
+15350,Ohio,N Illinois,N Illinois,False,8,2023-10-14,0,0.46,True
+15351,USC,Notre Dame,Notre Dame,False,8,2023-10-14,0,0.5,True
+15352,Ohio St,Purdue,Ohio St,True,8,2023-10-14,1,0.54,True
+15353,Oklahoma St,Kansas,Oklahoma St,True,8,2023-10-14,0,0.44,False
+15354,UCLA,Oregon St,Oregon St,False,8,2023-10-14,0,0.34,True
+15355,Penn St,UMass,Penn St,True,8,2023-10-14,0,0.46,False
+15356,Pittsburgh,Louisville,Pittsburgh,True,8,2023-10-14,0,0.41,False
+15357,Michigan St,Rutgers,Rutgers,False,8,2023-10-14,0,0.35,True
+15358,Hawai'i,San Diego St,San Diego St,False,8,2023-10-14,0,0.36,True
+15359,San Jose St,New Mexico,San Jose St,True,8,2023-10-14,0,0.48,False
+15360,Tennessee,Texas A&M,Tennessee,True,8,2023-10-14,0,0.38,False
+15361,BYU,TCU,TCU,False,8,2023-10-14,0,0.44,True
+15362,UL Monroe,Texas St,Texas St,False,8,2023-10-14,1,0.59,False
+15363,UTSA,UAB,UTSA,True,8,2023-10-14,1,0.51,True
+15364,Ball St,Toledo,Toledo,False,8,2023-10-14,0,0.46,True
+15365,Troy,Army,Troy,True,8,2023-10-14,0,0.48,False
+15366,California,Utah,Utah,False,8,2023-10-14,0,0.44,True
+15367,Virginia Tech,Wake Forest,Virginia Tech,True,8,2023-10-14,0,0.45,False
+15368,Washington,Oregon,Washington,True,8,2023-10-14,0,0.44,False
+15369,Jacksonville St,W Kentucky,Jacksonville St,True,9,2023-10-17,0,0.5,False
+15370,Middle Tenn,Liberty,Liberty,False,9,2023-10-17,0,0.41,True
+15371,S Alabama,Southern Miss,S Alabama,True,9,2023-10-17,0,0.43,False
+15372,Florida Intl,Sam Houston,Florida Intl,True,9,2023-10-18,1,0.59,True
+15373,New Mexico St,UTEP,New Mexico St,True,9,2023-10-18,1,0.61,True
+15374,J Madison,Marshall,J Madison,True,9,2023-10-19,0,0.45,False
+15375,Tulsa,Rice,Rice,False,9,2023-10-19,0,0.39,True
+15376,SMU,Temple,SMU,True,9,2023-10-20,0,0.48,False
+15377,Navy,Air Force,Air Force,False,9,2023-10-21,1,0.51,False
+15378,Tennessee,Alabama,Alabama,False,9,2023-10-21,0,0.49,True
+15379,C Michigan,Ball St,Ball St,False,9,2023-10-21,1,0.5775,False
+15380,Cincinnati,Baylor,Baylor,False,9,2023-10-21,1,0.5333333333333333,False
+15381,Boston College,Georgia Tech,Boston College,True,9,2023-10-21,1,0.57,True
+15382,Bowling Green,Akron,Bowling Green,True,9,2023-10-21,1,0.5026666666666667,True
+15383,Texas Tech,BYU,BYU,False,9,2023-10-21,1,0.51,False
+15384,Buffalo,Kent St,Buffalo,True,9,2023-10-21,0,0.5,False
+15385,E Carolina,Charlotte,Charlotte,False,9,2023-10-21,1,0.59,False
+15386,Arkansas St,Coastal Car,Coastal Car,False,9,2023-10-21,0,0.48,True
+15387,Duke,Florida St,Florida St,False,9,2023-10-21,0,0.49,True
+15388,Georgia So,UL Monroe,Georgia So,True,9,2023-10-21,0,0.47,False
+15389,Louisiana,Georgia St,Georgia St,False,9,2023-10-21,1,0.59,False
+15390,Kansas St,TCU,Kansas St,True,9,2023-10-21,1,0.53,True
+15391,Army,LSU,LSU,False,9,2023-10-21,0,0.5,True
+15392,Memphis,UAB,Memphis,True,9,2023-10-21,0,0.47,False
+15393,Clemson,Miami,Miami,False,9,2023-10-21,1,0.54,False
+15394,Michigan St,Michigan,Michigan,False,9,2023-10-21,1,0.51,False
+15395,Minnesota,Iowa,Minnesota,True,9,2023-10-21,1,0.53,True
+15396,Auburn,Mississippi,Mississippi,False,9,2023-10-21,0,0.44,True
+15397,Mississippi St,Arkansas,Mississippi St,True,9,2023-10-21,1,0.52,True
+15398,Missouri,South Carolina,Missouri,True,9,2023-10-21,1,0.505,True
+15399,Nebraska,Northwestern,Nebraska,True,9,2023-10-21,1,0.5633333333333332,True
+15400,Nevada,San Diego St,Nevada,True,9,2023-10-21,1,0.6,True
+15401,Colorado St,UNLV,UNLV,False,9,2023-10-21,0,0.47,True
+15402,Hawai'i,New Mexico,New Mexico,False,9,2023-10-21,1,0.57,False
+15403,E Michigan,N Illinois,N Illinois,False,9,2023-10-21,1,0.55,False
+15404,Ohio,W Michigan,Ohio,True,9,2023-10-21,1,0.55,True
+15405,Ohio St,Penn St,Ohio St,True,9,2023-10-21,0,0.48,False
+15406,Oklahoma,UCF,Oklahoma,True,9,2023-10-21,1,0.53,True
+15407,West Virginia,Oklahoma St,Oklahoma St,False,9,2023-10-21,1,0.62,False
+15408,App State,Old Dominion,Old Dominion,False,9,2023-10-21,0,0.45,True
+15409,Oregon,Washington St,Oregon,True,9,2023-10-21,0,0.5,False
+15410,Rutgers,Indiana,Rutgers,True,9,2023-10-21,1,0.57,True
+15411,Utah St,San Jose St,San Jose St,False,9,2023-10-21,1,0.64,False
+15412,UConn,S Florida,S Florida,False,9,2023-10-21,0,0.36,True
+15413,Texas,Houston,Texas,True,9,2023-10-21,0,0.42,False
+15414,Florida Atlantic,UTSA,UTSA,False,9,2023-10-21,0,0.39,True
+15415,Miami OH,Toledo,Toledo,False,9,2023-10-21,0,0.44,True
+15416,Tulane,N Texas,Tulane,True,9,2023-10-21,1,0.61,True
+15417,Stanford,UCLA,UCLA,False,9,2023-10-21,0,0.42,True
+15418,Utah,USC,Utah,True,9,2023-10-21,1,0.53,True
+15419,North Carolina,Virginia,Virginia,False,9,2023-10-21,0,0.44,True
+15420,Pittsburgh,Wake Forest,Wake Forest,False,9,2023-10-21,1,0.53,False
+15421,Washington,Arizona St,Washington,True,9,2023-10-21,0,0.44,False
+15422,Wisconsin,Illinois,Wisconsin,True,9,2023-10-21,1,0.56,True
+15423,Liberty,W Kentucky,Liberty,True,10,2023-10-24,1,0.56,True
+15424,Louisiana Tech,New Mexico St,New Mexico St,False,10,2023-10-24,1,0.65,False
+15425,Florida Intl,Jacksonville St,Jacksonville St,False,10,2023-10-25,1,0.6,False
+15426,UTEP,Sam Houston,UTEP,True,10,2023-10-25,1,0.54,True
+15427,Georgia So,Georgia St,Georgia So,True,10,2023-10-26,0,0.48,False
+15428,Syracuse,Virginia Tech,Virginia Tech,False,10,2023-10-26,0,0.46,True
+15429,Florida Atlantic,Charlotte,Florida Atlantic,True,10,2023-10-27,1,0.56,True
+15430,Colorado St,Air Force,Air Force,False,10,2023-10-28,0,0.34,True
+15431,App State,Southern Miss,App State,True,10,2023-10-28,0,0.46,False
+15432,Arizona,Oregon St,Arizona,True,10,2023-10-28,0,0.49,False
+15433,Washington St,Arizona St,Arizona St,False,10,2023-10-28,1,0.63,False
+15434,UL Monroe,Arkansas St,Arkansas St,False,10,2023-10-28,1,0.56,False
+15435,Auburn,Mississippi St,Auburn,True,10,2023-10-28,0,0.35,False
+15436,Boise St,Wyoming,Boise St,True,10,2023-10-28,0,0.48,False
+15437,Boston College,UConn,Boston College,True,10,2023-10-28,0,0.45,False
+15438,Marshall,Coastal Car,Coastal Car,False,10,2023-10-28,0,0.41,True
+15439,Wake Forest,Florida St,Florida St,False,10,2023-10-28,1,0.53,False
+15440,UNLV,Fresno St,Fresno St,False,10,2023-10-28,1,0.51,False
+15441,Georgia,Florida,Georgia,True,10,2023-10-28,1,0.52,True
+15442,North Carolina,Georgia Tech,Georgia Tech,False,10,2023-10-28,1,0.6,False
+15443,Baylor,Iowa St,Iowa St,False,10,2023-10-28,0,0.45,True
+15444,Old Dominion,J Madison,J Madison,False,10,2023-10-28,1,0.55,False
+15445,Oklahoma,Kansas,Kansas,False,10,2023-10-28,0,0.49,True
+15446,Houston,Kansas St,Kansas St,False,10,2023-10-28,0,0.45,True
+15447,S Alabama,Louisiana,Louisiana,False,10,2023-10-28,1,0.52,False
+15448,Duke,Louisville,Louisville,False,10,2023-10-28,1,0.58,False
+15449,Army,UMass,UMass,False,10,2023-10-28,1,0.55,False
+15450,N Texas,Memphis,Memphis,False,10,2023-10-28,1,0.63,False
+15451,Virginia,Miami,Miami,False,10,2023-10-28,1,0.59,False
+15452,Ohio,Miami OH,Miami OH,False,10,2023-10-28,1,0.57,False
+15453,Minnesota,Michigan St,Minnesota,True,10,2023-10-28,1,0.57,True
+15454,Vanderbilt,Mississippi,Mississippi,False,10,2023-10-28,0,0.37,True
+15455,Purdue,Nebraska,Nebraska,False,10,2023-10-28,1,0.69,False
+15456,Nevada,New Mexico,Nevada,True,10,2023-10-28,0,0.436,False
+15457,Clemson,NC State,NC State,False,10,2023-10-28,0,0.425,True
+15458,Northwestern,Maryland,Northwestern,True,10,2023-10-28,1,0.51,True
+15459,Pittsburgh,Notre Dame,Notre Dame,False,10,2023-10-28,1,0.59,False
+15460,Wisconsin,Ohio St,Ohio St,False,10,2023-10-28,1,0.69,False
+15461,Cincinnati,Oklahoma St,Oklahoma St,False,10,2023-10-28,0,0.44,True
+15462,Oregon,Utah,Oregon,True,10,2023-10-28,0,0.48,False
+15463,Penn St,Indiana,Penn St,True,10,2023-10-28,1,0.53,True
+15464,USC,California,USC,True,10,2023-10-28,1,0.52,True
+15465,SMU,Tulsa,SMU,True,10,2023-10-28,1,0.54,True
+15466,Tennessee,Kentucky,Tennessee,True,10,2023-10-28,0,0.47700000000000004,False
+15467,BYU,Texas,Texas,False,10,2023-10-28,0,0.44,True
+15468,South Carolina,Texas A&M,Texas A&M,False,10,2023-10-28,1,0.6,False
+15469,UTSA,E Carolina,UTSA,True,10,2023-10-28,0,0.38,False
+15470,Troy,Texas St,Troy,True,10,2023-10-28,0,0.49,False
+15471,Tulane,Rice,Tulane,True,10,2023-10-28,1,0.58,True
+15472,UCLA,Colorado,UCLA,True,10,2023-10-28,0,0.49,False
+15473,Washington,Stanford,Washington,True,10,2023-10-28,0,0.39,False
+15474,UCF,West Virginia,West Virginia,False,10,2023-10-28,0,0.5,True
+15475,E Michigan,W Michigan,W Michigan,False,10,2023-10-28,0,0.48,True
+15476,San Jose St,Hawai'i,San Jose St,True,10,2023-10-29,1,0.51,True
+15477,C Michigan,N Illinois,C Michigan,True,11,2023-10-31,0,0.4,False
+15478,Buffalo,Toledo,Toledo,False,11,2023-10-31,0,0.37,True
+15479,Akron,Kent St,Akron,True,11,2023-11-01,1,0.52,True
+15480,Bowling Green,Ball St,Bowling Green,True,11,2023-11-01,1,0.58,True
+15481,Duke,Wake Forest,Duke,True,11,2023-11-02,1,0.58,True
+15482,TCU,Texas Tech,Texas Tech,False,11,2023-11-02,1,0.56,False
+15483,S Alabama,Troy,Troy,False,11,2023-11-02,1,0.55,False
+15484,Syracuse,Boston College,Boston College,False,11,2023-11-03,0,0.33,True
+15485,Wyoming,Colorado St,Wyoming,True,11,2023-11-03,1,0.53,True
+15486,Alabama,LSU,Alabama,True,11,2023-11-04,1,0.68,True
+15487,Florida Atlantic,UAB,UAB,False,11,2023-11-04,1,0.63,False
+15488,App State,Marshall,App State,True,11,2023-11-04,0,0.43,False
+15489,UCLA,Arizona,Arizona,False,11,2023-11-04,1,0.6,False
+15490,Arkansas,Florida,Arkansas,True,11,2023-11-04,0,0.45833333333333337,False
+15491,Louisiana,Arkansas St,Arkansas St,False,11,2023-11-04,1,0.62,False
+15492,Army,Air Force,Army,True,11,2023-11-04,1,0.51,True
+15493,Auburn,Vanderbilt,Auburn,True,11,2023-11-04,0,0.45,False
+15494,UCF,Cincinnati,UCF,True,11,2023-11-04,1,0.52,True
+15495,Tulsa,Charlotte,Charlotte,False,11,2023-11-04,0,0.4,True
+15496,Notre Dame,Clemson,Clemson,False,11,2023-11-04,1,0.59,False
+15497,Old Dominion,Coastal Car,Coastal Car,False,11,2023-11-04,0,0.48,True
+15498,Florida St,Pittsburgh,Florida St,True,11,2023-11-04,0,0.49,False
+15499,Boise St,Fresno St,Fresno St,False,11,2023-11-04,0,0.49,True
+15500,Missouri,Georgia,Georgia,False,11,2023-11-04,0,0.49,True
+15501,Virginia,Georgia Tech,Georgia Tech,False,11,2023-11-04,0,0.49,True
+15502,Nevada,Hawai'i,Hawai'i,False,11,2023-11-04,0,0.5,True
+15503,Baylor,Houston,Houston,False,11,2023-11-04,1,0.53,False
+15504,Illinois,Minnesota,Illinois,True,11,2023-11-04,0,0.46,False
+15505,Wisconsin,Indiana,Indiana,False,11,2023-11-04,1,0.56,False
+15506,Iowa,Northwestern,Iowa,True,11,2023-11-04,1,0.54,True
+15507,J Madison,Georgia St,J Madison,True,11,2023-11-04,0,0.45,False
+15508,Kansas,Iowa St,Kansas,True,11,2023-11-04,0,0.38,False
+15509,Mississippi St,Kentucky,Kentucky,False,11,2023-11-04,1,0.55,False
+15510,Louisiana Tech,Liberty,Liberty,False,11,2023-11-04,1,0.54,False
+15511,Virginia Tech,Louisville,Louisville,False,11,2023-11-04,0,0.45,True
+15513,Memphis,S Florida,Memphis,True,11,2023-11-04,1,0.67,True
+15514,Purdue,Michigan,Michigan,False,11,2023-11-04,1,0.67,False
+15515,Michigan St,Nebraska,Michigan St,True,11,2023-11-04,0,0.43,False
+15516,Texas A&M,Mississippi,Mississippi,False,11,2023-11-04,0,0.43,True
+15517,UNLV,New Mexico,UNLV,True,11,2023-11-04,0,0.5,False
+15518,New Mexico St,Middle Tenn,New Mexico St,True,11,2023-11-04,0,0.49,False
+15520,Miami,NC State,NC State,False,11,2023-11-04,0,0.44,True
+15521,Rutgers,Ohio St,Ohio St,False,11,2023-11-04,1,0.57,False
+15522,Oklahoma,Oklahoma St,Oklahoma St,False,11,2023-11-04,1,0.58,False
+15523,Oregon,California,Oregon,True,11,2023-11-04,0,0.38,False
+15524,Oregon St,Colorado,Oregon St,True,11,2023-11-04,1,0.66,True
+15525,Penn St,Maryland,Penn St,True,11,2023-11-04,0,0.42,False
+15527,Jacksonville St,South Carolina,South Carolina,False,11,2023-11-04,1,0.59,False
+15528,SMU,Rice,SMU,True,11,2023-11-04,0,0.46,False
+15529,Southern Miss,UL Monroe,Southern Miss,True,11,2023-11-04,0,0.41,False
+15530,Washington St,Stanford,Stanford,False,11,2023-11-04,0,0.47,True
+15531,Temple,Navy,Temple,True,11,2023-11-04,1,0.59,True
+15532,Tennessee,UConn,Tennessee,True,11,2023-11-04,0,0.46,False
+15533,Kansas St,Texas,Texas,False,11,2023-11-04,0,0.47,True
+15534,Georgia So,Texas St,Texas St,False,11,2023-11-04,1,0.53,False
+15535,UTSA,N Texas,UTSA,True,11,2023-11-04,1,0.66,True
+15536,Tulane,E Carolina,Tulane,True,11,2023-11-04,1,0.59,True
+15537,Utah,Arizona St,Utah,True,11,2023-11-04,1,0.51,True
+15538,Utah St,San Diego St,Utah St,True,11,2023-11-04,0,0.48,False
+15539,USC,Washington,Washington,False,11,2023-11-04,0,0.41,True
+15540,West Virginia,BYU,West Virginia,True,11,2023-11-04,0,0.4,False
+15541,UTEP,W Kentucky,W Kentucky,False,11,2023-11-04,1,0.59,False
+15542,Ball St,N Illinois,Ball St,True,12,2023-11-07,1,0.53,True
+15543,Buffalo,Ohio,Ohio,False,12,2023-11-07,1,0.54,False
+15544,C Michigan,W Michigan,W Michigan,False,12,2023-11-07,1,0.54,False
+15545,Kent St,Bowling Green,Bowling Green,False,12,2023-11-08,0,0.31,True
+15546,Akron,Miami OH,Miami OH,False,12,2023-11-08,0,0.44,True
+15547,E Michigan,Toledo,Toledo,False,12,2023-11-08,0,0.5,True
+15548,Louisville,Virginia,Louisville,True,12,2023-11-09,0,0.38,False
+15549,Southern Miss,Louisiana,Southern Miss,True,12,2023-11-09,0,0.46,False
+15550,Wyoming,UNLV,UNLV,False,12,2023-11-10,0,0.49,True
+15551,SMU,N Texas,SMU,True,12,2023-11-10,1,0.61,True
+15552,Alabama,Kentucky,Alabama,True,12,2023-11-11,1,0.51,True
+15553,App State,Georgia St,App State,True,12,2023-11-11,1,0.58,True
+15554,Arizona,Colorado,Arizona,True,12,2023-11-11,1,0.58,True
+15555,Arizona St,UCLA,Arizona St,True,12,2023-11-11,1,0.54,True
+15557,Auburn,Arkansas,Auburn,True,12,2023-11-11,0,0.49,False
+15558,Boise St,New Mexico,Boise St,True,12,2023-11-11,0,0.49,False
+15559,California,Washington St,California,True,12,2023-11-11,0,0.5,False
+15560,Oklahoma St,UCF,UCF,False,12,2023-11-11,1,0.55,False
+15561,Houston,Cincinnati,Cincinnati,False,12,2023-11-11,1,0.65,False
+15562,Clemson,Georgia Tech,Clemson,True,12,2023-11-11,0,0.48,False
+15563,Coastal Car,Texas St,Coastal Car,True,12,2023-11-11,0,0.4,False
+15564,San Diego St,Colorado St,Colorado St,False,12,2023-11-11,0,0.37,True
+15565,E Carolina,Florida Atlantic,E Carolina,True,12,2023-11-11,1,0.56,True
+15566,Miami,Florida St,Florida St,False,12,2023-11-11,1,0.62,False
+15567,Mississippi,Georgia,Georgia,False,12,2023-11-11,1,0.61,False
+15568,Hawai'i,Air Force,Hawai'i,True,12,2023-11-11,1,0.55,True
+15569,Indiana,Illinois,Illinois,False,12,2023-11-11,0,0.46,True
+15570,Rutgers,Iowa,Iowa,False,12,2023-11-11,0,0.44,True
+15571,Iowa St,BYU,Iowa St,True,12,2023-11-11,1,0.52,True
+15572,J Madison,UConn,J Madison,True,12,2023-11-11,1,0.59,True
+15573,Kansas St,Baylor,Kansas St,True,12,2023-11-11,0,0.47,False
+15574,Old Dominion,Liberty,Liberty,False,12,2023-11-11,0,0.38,True
+15575,LSU,Florida,LSU,True,12,2023-11-11,0,0.33,False
+15576,Georgia So,Marshall,Marshall,False,12,2023-11-11,1,0.53,False
+15577,Nebraska,Maryland,Maryland,False,12,2023-11-11,1,0.59,False
+15578,Charlotte,Memphis,Memphis,False,12,2023-11-11,1,0.6,False
+15579,Michigan,Penn St,Michigan,True,12,2023-11-11,1,0.525,True
+15580,Middle Tenn,Florida Intl,Middle Tenn,True,12,2023-11-11,1,0.51,True
+15581,Missouri,Tennessee,Missouri,True,12,2023-11-11,0,0.36,False
+15582,UAB,Navy,Navy,False,12,2023-11-11,1,0.54,False
+15583,W Kentucky,New Mexico St,New Mexico St,False,12,2023-11-11,1,0.57,False
+15584,North Carolina,Duke,North Carolina,True,12,2023-11-11,1,0.53,True
+15585,Wake Forest,NC State,NC State,False,12,2023-11-11,1,0.57,False
+15586,Wisconsin,Northwestern,Northwestern,False,12,2023-11-11,1,0.51,False
+15587,Ohio St,Michigan St,Ohio St,True,12,2023-11-11,0,0.36,False
+15588,Oklahoma,West Virginia,Oklahoma,True,12,2023-11-11,1,0.56,True
+15589,USC,Oregon,Oregon,False,12,2023-11-11,1,0.61,False
+15590,Oregon St,Stanford,Oregon St,True,12,2023-11-11,0,0.47,False
+15591,Minnesota,Purdue,Purdue,False,12,2023-11-11,0,0.48,True
+15592,Louisiana Tech,Sam Houston,Sam Houston,False,12,2023-11-11,1,0.6,False
+15593,San Jose St,Fresno St,San Jose St,True,12,2023-11-11,1,0.57,True
+15594,Arkansas St,S Alabama,S Alabama,False,12,2023-11-11,1,0.55,False
+15595,South Carolina,Vanderbilt,South Carolina,True,12,2023-11-11,1,0.69,True
+15596,S Florida,Temple,S Florida,True,12,2023-11-11,0,0.47,False
+15597,Pittsburgh,Syracuse,Syracuse,False,12,2023-11-11,1,0.6766666666666665,False
+15598,TCU,Texas,Texas,False,12,2023-11-11,1,0.54,False
+15599,Texas A&M,Mississippi St,Texas A&M,True,12,2023-11-11,1,0.59,True
+15600,Texas Tech,Kansas,Texas Tech,True,12,2023-11-11,1,0.6,True
+15601,UTSA,Rice,UTSA,True,12,2023-11-11,0,0.46,False
+15602,Troy,UL Monroe,Troy,True,12,2023-11-11,0,0.45,False
+15603,Tulsa,Tulane,Tulane,False,12,2023-11-11,1,0.6,False
+15604,Nevada,Utah St,Utah St,False,12,2023-11-11,1,0.58,False
+15605,Boston College,Virginia Tech,Virginia Tech,False,12,2023-11-11,0,0.45,True
+15606,Washington,Utah,Washington,True,12,2023-11-11,1,0.62,True
+15607,E Michigan,Akron,E Michigan,True,13,2023-11-14,1,0.6,True
+15608,W Michigan,N Illinois,N Illinois,False,13,2023-11-14,0,0.47,True
+15609,Bowling Green,Toledo,Toledo,False,13,2023-11-14,1,0.52,False
+15610,Miami OH,Buffalo,Miami OH,True,13,2023-11-15,1,0.58,True
+15611,C Michigan,Ohio,Ohio,False,13,2023-11-15,1,0.58,False
+15612,Boston College,Pittsburgh,Pittsburgh,False,13,2023-11-16,0,0.45,True
+15613,S Florida,UTSA,UTSA,False,13,2023-11-17,1,0.65,False
+15614,Colorado,Washington St,Washington St,False,13,2023-11-17,1,0.56,False
+15616,Temple,UAB,UAB,False,13,2023-11-18,0,0.43,True
+15617,J Madison,App State,App State,False,13,2023-11-18,1,0.59,False
+15618,Arizona,Utah,Arizona,True,13,2023-11-18,1,0.55,True
+15619,Florida Intl,Arkansas,Arkansas,False,13,2023-11-18,1,0.6,False
+15620,Arkansas St,Texas St,Arkansas St,True,13,2023-11-18,1,0.58,True
+15621,Coastal Car,Army,Army,False,13,2023-11-18,0,0.435,True
+15622,Ball St,Kent St,Ball St,True,13,2023-11-18,1,0.67,True
+15623,Utah St,Boise St,Boise St,False,13,2023-11-18,0,0.44,True
+15624,Stanford,California,California,False,13,2023-11-18,0,0.38,True
+15625,Clemson,North Carolina,Clemson,True,13,2023-11-18,0,0.39,False
+15626,Colorado St,Nevada,Colorado St,True,13,2023-11-18,1,0.61,True
+15629,Tennessee,Georgia,Georgia,False,13,2023-11-18,0,0.46,True
+15630,Georgia Tech,Syracuse,Georgia Tech,True,13,2023-11-18,0,0.48,False
+15631,Illinois,Iowa,Iowa,False,13,2023-11-18,0,0.42,True
+15632,Louisiana Tech,Jacksonville St,Jacksonville St,False,13,2023-11-18,1,0.56,False
+15633,Kansas,Kansas St,Kansas St,False,13,2023-11-18,1,0.55,False
+15634,Liberty,UMass,Liberty,True,13,2023-11-18,1,0.57,True
+15635,Georgia St,LSU,LSU,False,13,2023-11-18,1,0.62,False
+15636,Miami,Louisville,Louisville,False,13,2023-11-18,0,0.47,True
+15637,Maryland,Michigan,Michigan,False,13,2023-11-18,0,0.49,True
+15638,Indiana,Michigan St,Michigan St,False,13,2023-11-18,1,0.555,False
+15639,UTEP,Middle Tenn,Middle Tenn,False,13,2023-11-18,0,0.5,True
+15640,Mississippi,UL Monroe,Mississippi,True,13,2023-11-18,0,0.41,False
+15641,Southern Miss,Mississippi St,Mississippi St,False,13,2023-11-18,1,0.55,False
+15642,Missouri,Florida,Missouri,True,13,2023-11-18,1,0.52,True
+15643,Navy,E Carolina,Navy,True,13,2023-11-18,1,0.64,True
+15644,Air Force,UNLV,UNLV,False,13,2023-11-18,1,0.55,False
+15645,New Mexico,Fresno St,New Mexico,True,13,2023-11-18,0,0.47,False
+15646,New Mexico St,Auburn,New Mexico St,True,13,2023-11-18,1,0.56,True
+15647,NC State,Virginia Tech,NC State,True,13,2023-11-18,1,0.62,True
+15648,N Texas,Tulsa,N Texas,True,13,2023-11-18,0,0.45,False
+15649,Northwestern,Purdue,Northwestern,True,13,2023-11-18,0,0.48,False
+15650,Wake Forest,Notre Dame,Notre Dame,False,13,2023-11-18,1,0.6,False
+15651,Minnesota,Ohio St,Ohio St,False,13,2023-11-18,1,0.52,False
+15652,Oklahoma,BYU,Oklahoma,True,13,2023-11-18,0,0.37,False
+15653,Oklahoma St,Houston,Oklahoma St,True,13,2023-11-18,1,0.51,True
+15654,Georgia So,Old Dominion,Old Dominion,False,13,2023-11-18,1,0.55,False
+15655,Arizona St,Oregon,Oregon,False,13,2023-11-18,0,0.49,True
+15656,Penn St,Rutgers,Penn St,True,13,2023-11-18,0,0.44,False
+15657,Charlotte,Rice,Rice,False,13,2023-11-18,1,0.52,False
+15658,San Jose St,San Diego St,San Jose St,True,13,2023-11-18,1,0.52,True
+15659,Marshall,S Alabama,S Alabama,False,13,2023-11-18,0,0.39,True
+15660,South Carolina,Kentucky,South Carolina,True,13,2023-11-18,0,0.4,False
+15661,SMU,Memphis,SMU,True,13,2023-11-18,0,0.43,False
+15662,Texas,Iowa St,Texas,True,13,2023-11-18,0,0.43,False
+15664,TCU,Baylor,TCU,True,13,2023-11-18,1,0.57,True
+15665,Texas Tech,UCF,Texas Tech,True,13,2023-11-18,1,0.62,True
+15666,Louisiana,Troy,Troy,False,13,2023-11-18,0,0.5,True
+15667,Tulane,Florida Atlantic,Tulane,True,13,2023-11-18,1,0.59,True
+15668,UCLA,USC,UCLA,True,13,2023-11-18,1,0.64,True
+15669,Virginia,Duke,Virginia,True,13,2023-11-18,1,0.55,True
+15670,Oregon St,Washington,Washington,False,13,2023-11-18,0,0.49,True
+15671,Cincinnati,West Virginia,West Virginia,False,13,2023-11-18,0,0.42,True
+15672,W Kentucky,Sam Houston,W Kentucky,True,13,2023-11-18,0,0.47,False
+15673,Nebraska,Wisconsin,Wisconsin,False,13,2023-11-18,0,0.47,True
+15674,Wyoming,Hawai'i,Wyoming,True,13,2023-11-18,0,0.48,False
+15675,Bowling Green,W Michigan,Bowling Green,True,14,2023-11-21,1,0.61,True
+15676,E Michigan,Buffalo,E Michigan,True,14,2023-11-21,0,0.5,False
+15677,Mississippi,Mississippi St,Mississippi,True,14,2023-11-23,1,0.62,True
+15678,Boise St,Air Force,Boise St,True,14,2023-11-24,1,0.53,True
+15679,Nebraska,Iowa,Iowa,False,14,2023-11-24,0,0.41,True
+15680,Memphis,Temple,Memphis,True,14,2023-11-24,0,0.45,False
+15681,Miami,Boston College,Miami,True,14,2023-11-24,0,0.45,False
+15682,Missouri,Arkansas,Missouri,True,14,2023-11-24,1,0.62,True
+15683,Akron,Ohio,Ohio,False,14,2023-11-24,1,0.58,False
+15684,Oklahoma,TCU,Oklahoma,True,14,2023-11-24,1,0.61,True
+15685,Oregon,Oregon St,Oregon,True,14,2023-11-24,1,0.56,True
+15686,Michigan St,Penn St,Penn St,False,14,2023-11-24,1,0.57,False
+15687,Texas Tech,Texas,Texas,False,14,2023-11-24,0,0.37,True
+15688,Toledo,C Michigan,Toledo,True,14,2023-11-24,1,0.55,True
+15689,UTSA,Tulane,Tulane,False,14,2023-11-24,1,0.55,False
+15690,New Mexico,Utah St,Utah St,False,14,2023-11-24,0,0.45,True
+15691,Alabama,Auburn,Alabama,True,14,2023-11-25,1,0.58,True
+15692,Georgia So,App State,App State,False,14,2023-11-25,0,0.42,True
+15693,Arizona St,Arizona,Arizona,False,14,2023-11-25,1,0.58,False
+15694,UCLA,California,California,False,14,2023-11-25,1,0.62,False
+15695,UCF,Houston,UCF,True,14,2023-11-25,1,0.57,True
+15696,South Carolina,Clemson,Clemson,False,14,2023-11-25,0,0.45,True
+15697,UMass,UConn,UConn,False,14,2023-11-25,1,0.6,False
+15698,Duke,Pittsburgh,Duke,True,14,2023-11-25,1,0.63,True
+15699,Florida St,Florida,Florida St,True,14,2023-11-25,0,0.36,False
+15700,Georgia Tech,Georgia,Georgia,False,14,2023-11-25,0,0.46,True
+15701,Hawai'i,Colorado St,Hawai'i,True,14,2023-11-25,0,0.3,False
+15702,Kansas St,Iowa St,Iowa St,False,14,2023-11-25,0,0.47,True
+15703,J Madison,Coastal Car,J Madison,True,14,2023-11-25,1,0.59,True
+15704,Cincinnati,Kansas,Kansas,False,14,2023-11-25,1,0.55,False
+15705,Louisville,Kentucky,Kentucky,False,14,2023-11-25,1,0.58,False
+15706,Liberty,UTEP,Liberty,True,14,2023-11-25,1,0.72,True
+15707,UL Monroe,Louisiana,Louisiana,False,14,2023-11-25,0,0.49,True
+15708,Texas A&M,LSU,LSU,False,14,2023-11-25,1,0.53,False
+15709,Marshall,Arkansas St,Marshall,True,14,2023-11-25,0,0.23,False
+15710,Rutgers,Maryland,Maryland,False,14,2023-11-25,0,0.4,True
+15711,Ball St,Miami OH,Miami OH,False,14,2023-11-25,0,0.46,True
+15712,Michigan,Ohio St,Michigan,True,14,2023-11-25,0,0.49,False
+15713,Jacksonville St,New Mexico St,New Mexico St,False,14,2023-11-25,1,0.58,False
+15714,North Carolina,NC State,NC State,False,14,2023-11-25,0,0.42,True
+15715,UAB,N Texas,N Texas,False,14,2023-11-25,1,0.57,False
+15716,Kent St,N Illinois,N Illinois,False,14,2023-11-25,1,0.55,False
+15717,Illinois,Northwestern,Northwestern,False,14,2023-11-25,1,0.58,False
+15718,Notre Dame,Stanford,Notre Dame,True,14,2023-11-25,0,0.48,False
+15719,BYU,Oklahoma St,Oklahoma St,False,14,2023-11-25,0,0.46,True
+15720,Old Dominion,Georgia St,Old Dominion,True,14,2023-11-25,0,0.43,False
+15721,Indiana,Purdue,Purdue,False,14,2023-11-25,0,0.41,True
+15722,Florida Atlantic,Rice,Rice,False,14,2023-11-25,1,0.56,False
+15723,Middle Tenn,Sam Houston,Sam Houston,False,14,2023-11-25,1,0.53,False
+15724,Fresno St,San Diego St,San Diego St,False,14,2023-11-25,0,0.45,True
+15725,UNLV,San Jose St,San Jose St,False,14,2023-11-25,1,0.63,False
+15726,S Florida,Charlotte,S Florida,True,14,2023-11-25,0,0.34,False
+15727,Navy,SMU,SMU,False,14,2023-11-25,0,0.45,True
+15728,Syracuse,Wake Forest,Syracuse,True,14,2023-11-25,0,0.465,False
+15729,Vanderbilt,Tennessee,Tennessee,False,14,2023-11-25,0,0.46,True
+15730,Texas St,S Alabama,Texas St,True,14,2023-11-25,1,0.72,True
+15731,Southern Miss,Troy,Troy,False,14,2023-11-25,1,0.57,False
+15732,E Carolina,Tulsa,Tulsa,False,14,2023-11-25,0,0.42,True
+15733,Utah,Colorado,Utah,True,14,2023-11-25,0,0.42,False
+15734,Virginia Tech,Virginia,Virginia Tech,True,14,2023-11-25,1,0.58,True
+15735,Washington St,Washington,Washington,False,14,2023-11-25,0,0.34,True
+15736,Baylor,West Virginia,West Virginia,False,14,2023-11-25,0,0.41,True
+15737,W Kentucky,Florida Intl,W Kentucky,True,14,2023-11-25,0,0.44,False
+15738,Wisconsin,Minnesota,Wisconsin,True,14,2023-11-25,1,0.65,True
+15739,Wyoming,Nevada,Wyoming,True,14,2023-11-25,1,0.61,True
+15740,New Mexico St,Liberty,Liberty,False,15,2023-12-01,0,0.47,True
+15741,Washington,Oregon,Washington,True,15,2023-12-01,0,0.45,False
+15742,Georgia,Alabama,Alabama,False,15,2023-12-02,0,0.48,True
+15743,Boise St,UNLV,Boise St,True,15,2023-12-02,1,0.6333333333333333,True
+15744,Florida St,Louisville,Florida St,True,15,2023-12-02,1,0.61,True
+15745,Miami OH,Toledo,Miami OH,True,15,2023-12-02,0,0.48,False
+15746,Iowa,Michigan,Michigan,False,15,2023-12-02,1,0.52,False
+15747,SMU,Tulane,SMU,True,15,2023-12-02,1,0.7,True
+15748,Texas,Oklahoma St,Texas,True,15,2023-12-02,0,0.48,False
+15749,Troy,App State,Troy,True,15,2023-12-02,1,0.57,True
+15750,Navy,Army,Army,False,16,2023-12-09,1,0.55,False
+15751,App State,Miami OH,App State,True,17,2023-12-16,1,0.51,True
+15752,New Mexico St,Fresno St,Fresno St,False,17,2023-12-16,0,0.44,True
+15753,Jacksonville St,Louisiana,Jacksonville St,True,17,2023-12-16,0,0.4,False
+15754,Ohio,Georgia So,Ohio,True,17,2023-12-16,0,0.5,False
+15755,California,Texas Tech,Texas Tech,False,17,2023-12-16,1,0.65,False
+15756,UCLA,Boise St,UCLA,True,17,2023-12-16,0,0.48,False
+15757,W Kentucky,Old Dominion,W Kentucky,True,17,2023-12-18,1,0.53,True
+15758,Marshall,UTSA,UTSA,False,18,2023-12-19,0,0.36,True
+15759,S Florida,Syracuse,S Florida,True,18,2023-12-21,0,0.47,False
+15760,Georgia Tech,UCF,Georgia Tech,True,18,2023-12-22,0,0.21,False
+15761,J Madison,Air Force,Air Force,False,18,2023-12-23,1,0.51,False
+15762,San Jose St,Coastal Car,Coastal Car,False,18,2023-12-23,1,0.57,False
+15763,Duke,Troy,Duke,True,18,2023-12-23,1,0.58,True
+15764,Georgia St,Utah St,Georgia St,True,18,2023-12-23,1,0.57,True
+15765,Arkansas St,N Illinois,N Illinois,False,18,2023-12-23,0,0.38,True
+15766,Northwestern,Utah,Northwestern,True,18,2023-12-23,1,0.53,True
+15767,E Michigan,S Alabama,S Alabama,False,18,2023-12-23,1,0.51,False
+15768,UNLV,Kansas,Kansas,False,19,2023-12-26,1,0.516,False
+15769,Minnesota,Bowling Green,Minnesota,True,19,2023-12-26,1,0.56,True
+15770,Texas St,Rice,Texas St,True,19,2023-12-26,0,0.43,False
+15771,Oklahoma St,Texas A&M,Oklahoma St,True,19,2023-12-27,1,0.58,True
+15772,USC,Louisville,USC,True,19,2023-12-27,0,0.47,False
+15773,Tulane,Virginia Tech,Virginia Tech,False,19,2023-12-27,1,0.65,False
+15774,North Carolina,West Virginia,West Virginia,False,19,2023-12-27,1,0.58,False
+15775,Arizona,Oklahoma,Arizona,True,19,2023-12-28,0,0.4,False
+15776,Boston College,SMU,Boston College,True,19,2023-12-28,1,0.57,True
+15777,NC State,Kansas St,Kansas St,False,19,2023-12-28,1,0.57,False
+15778,Rutgers,Miami,Rutgers,True,19,2023-12-28,0,0.46,False
+15779,Clemson,Kentucky,Clemson,True,19,2023-12-29,0,0.4,False
+15780,Iowa St,Memphis,Memphis,False,19,2023-12-29,0,0.44,True
+15781,Missouri,Ohio St,Missouri,True,19,2023-12-29,0,0.48,False
+15782,Notre Dame,Oregon St,Notre Dame,True,19,2023-12-29,0,0.435,False
+15783,Florida St,Georgia,Georgia,False,19,2023-12-30,1,0.53,False
+15784,Auburn,Maryland,Maryland,False,19,2023-12-30,0,0.41,True
+15785,Mississippi,Penn St,Mississippi,True,19,2023-12-30,0,0.4,False
+15786,Wyoming,Toledo,Wyoming,True,19,2023-12-30,1,0.6,True
+15787,LSU,Wisconsin,LSU,True,20,2024-01-01,0,0.5,False
+15788,Alabama,Michigan,Michigan,False,20,2024-01-01,0,0.45,True
+15789,Oregon,Liberty,Oregon,True,20,2024-01-01,0,0.49,False
+15790,Tennessee,Iowa,Tennessee,True,20,2024-01-01,1,0.55,True
+15791,Washington,Texas,Washington,True,20,2024-01-01,1,0.51,True
+15792,Michigan,Washington,Michigan,True,21,2024-01-08,1,0.59,True
+15914,Nevada,Georgia So,Georgia So,False,3,2024-09-07,0,0.5,True
+15928,Maryland,Michigan St,Michigan St,False,3,2024-09-07,1,0.68,False
+15935,Charlotte,North Carolina,North Carolina,False,3,2024-09-07,0,0.49,True
+15938,S Alabama,Ohio,Ohio,False,3,2024-09-07,1,0.54,False
+15939,Ohio St,W Michigan,Ohio St,True,3,2024-09-07,1,0.6,True
+15940,Oklahoma,Houston,Oklahoma,True,3,2024-09-07,1,0.66,True
+15949,Kentucky,South Carolina,South Carolina,False,3,2024-09-07,0,0.47,True
+15955,Syracuse,Georgia Tech,Syracuse,True,3,2024-09-07,0,0.45,False
+15957,Texas,Michigan,Texas,True,3,2024-09-07,1,0.6,True
+15971,Arizona St,Texas St,Arizona St,True,4,2024-09-12,0,0.47,False
+15973,Kansas St,Arizona,Kansas St,True,4,2024-09-13,1,0.58,True
+15974,UNLV,Kansas,UNLV,True,4,2024-09-13,0,0.47,False
+15976,Wisconsin,Alabama,Alabama,False,4,2024-09-14,0,0.48,True
+15977,E Carolina,App State,App State,False,4,2024-09-14,0,0.49,True
+15978,Arkansas,UAB,Arkansas,True,4,2024-09-14,0,0.48,False
+15979,New Mexico,Auburn,Auburn,False,4,2024-09-14,0,0.4,True
+15980,Air Force,Baylor,Baylor,False,4,2024-09-14,0,0.48,True
+15981,BYU,Wyoming,BYU,True,4,2024-09-14,1,0.63,True
+15982,Buffalo,UMass,Buffalo,True,4,2024-09-14,0,0.48,False
+15983,California,San Diego St,California,True,4,2024-09-14,1,0.54,True
+15984,UCF,TCU,UCF,True,4,2024-09-14,1,0.61,True
+15986,Cincinnati,Miami OH,Cincinnati,True,4,2024-09-14,1,0.59,True
+15987,Coastal Car,Temple,Coastal Car,True,4,2024-09-14,1,0.59,True
+15988,Colorado,Colorado St,Colorado,True,4,2024-09-14,0,0.47,False
+15989,UConn,Duke,Duke,False,4,2024-09-14,0,0.4,True
+15990,E Michigan,Jacksonville St,E Michigan,True,4,2024-09-14,0,0.46,False
+15991,Florida Atlantic,Florida Intl,Florida Atlantic,True,4,2024-09-14,0,0.36,False
+15992,New Mexico St,Fresno St,Fresno St,False,4,2024-09-14,0,0.49,True
+15993,Kentucky,Georgia,Georgia,False,4,2024-09-14,1,0.62,False
+15995,Vanderbilt,Georgia St,Georgia St,False,4,2024-09-14,1,0.57,False
+15997,Houston,Rice,Houston,True,4,2024-09-14,0,0.43,False
+15998,C Michigan,Illinois,Illinois,False,4,2024-09-14,0,0.45,True
+15999,Indiana,UCLA,Indiana,True,4,2024-09-14,1,0.64,True
+16000,Troy,Iowa,Iowa,False,4,2024-09-14,0,0.44,True
+16001,Liberty,UTEP,Liberty,True,4,2024-09-14,0,0.46,False
+16002,LSU,South Carolina,LSU,True,4,2024-09-14,0,0.42,False
+16003,Maryland,Virginia,Maryland,True,4,2024-09-14,1,0.66,True
+16004,Memphis,Florida St,Memphis,True,4,2024-09-14,0,0.47,False
+16006,Arkansas St,Michigan,Michigan,False,4,2024-09-14,0,0.45,True
+16008,Minnesota,Nevada,Minnesota,True,4,2024-09-14,0,0.46,False
+16009,Wake Forest,Mississippi,Mississippi,False,4,2024-09-14,0,0.45,True
+16010,Boston College,Missouri,Missouri,False,4,2024-09-14,1,0.55,False
+16017,Tulane,Oklahoma,Oklahoma,False,4,2024-09-14,0,0.42,True
+16018,Tulsa,Oklahoma St,Oklahoma St,False,4,2024-09-14,1,0.61,False
+16019,Oregon,Oregon St,Oregon,True,4,2024-09-14,0,0.46,False
+16020,Pittsburgh,West Virginia,Pittsburgh,True,4,2024-09-14,0,0.49,False
+16021,Hawai'i,Sam Houston,Sam Houston,False,4,2024-09-14,0,0.46,True
+16022,San Jose St,Kennesaw St,San Jose St,True,4,2024-09-14,0,0.5,False
+16023,S Florida,Southern Miss,S Florida,True,4,2024-09-14,0,0.47,False
+16024,Tennessee,Kent St,Tennessee,True,4,2024-09-14,0,0.48,False
+16025,Texas,UTSA,Texas,True,4,2024-09-14,0,0.49,False
+16026,Florida,Texas A&M,Texas A&M,False,4,2024-09-14,1,0.53,False
+16027,Texas Tech,N Texas,Texas Tech,True,4,2024-09-14,1,0.58,True
+16028,Mississippi St,Toledo,Toledo,False,4,2024-09-14,1,0.53,False
+16029,Utah,Utah St,Utah,True,4,2024-09-14,0,0.27,False
+16030,Virginia Tech,Old Dominion,Virginia Tech,True,4,2024-09-14,1,0.55,True
+16031,Washington St,Washington,Washington St,True,4,2024-09-14,1,0.51,True
+16032,W Kentucky,Middle Tenn,W Kentucky,True,4,2024-09-14,0,0.47,False
+16034,S Alabama,App State,S Alabama,True,5,2024-09-19,1,0.55,True
+16035,Nebraska,Illinois,Illinois,False,5,2024-09-20,1,0.575,False
+16036,Stanford,Syracuse,Stanford,True,5,2024-09-20,0,0.41,False
+16037,Washington St,San Jose St,Washington St,True,5,2024-09-20,0,0.46,False
+16038,Auburn,Arkansas,Arkansas,False,5,2024-09-21,1,0.59,False
+16039,Rice,Army,Army,False,5,2024-09-21,1,0.56,False
+16041,Michigan St,Boston College,Boston College,False,5,2024-09-21,1,0.51,False
+16042,Kansas St,BYU,BYU,False,5,2024-09-21,1,0.53,False
+16043,Buffalo,N Illinois,Buffalo,True,5,2024-09-21,1,0.52,True
+16044,C Michigan,Ball St,C Michigan,True,5,2024-09-21,0,0.41,False
+16045,Cincinnati,Houston,Cincinnati,True,5,2024-09-21,0,0.4,False
+16046,Clemson,NC State,Clemson,True,5,2024-09-21,1,0.65,True
+16047,Baylor,Colorado,Colorado,False,5,2024-09-21,1,0.68,False
+16048,Colorado St,UTEP,Colorado St,True,5,2024-09-21,0,0.46,False
+16049,UConn,Florida Atlantic,UConn,True,5,2024-09-21,1,0.56,True
+16050,Duke,Middle Tenn,Duke,True,5,2024-09-21,1,0.55,True
+16052,Florida,Mississippi St,Florida,True,5,2024-09-21,0,0.4,False
+16053,California,Florida St,Florida St,False,5,2024-09-21,1,0.66,False
+16054,Fresno St,New Mexico,Fresno St,True,5,2024-09-21,1,0.51,True
+16055,Charlotte,Indiana,Indiana,False,5,2024-09-21,1,0.55,False
+16056,Iowa,Minnesota,Iowa,True,5,2024-09-21,0,0.47,False
+16057,Iowa St,Arkansas St,Iowa St,True,5,2024-09-21,0,0.42,False
+16058,Jacksonville St,Southern Miss,Jacksonville St,True,5,2024-09-21,0,0.39,False
+16059,J Madison,North Carolina,J Madison,True,5,2024-09-21,1,0.58,True
+16060,Ohio,Kentucky,Kentucky,False,5,2024-09-21,0,0.46,True
+16061,Liberty,E Carolina,Liberty,True,5,2024-09-21,1,0.56,True
+16062,LSU,UCLA,LSU,True,5,2024-09-21,1,0.63,True
+16063,Georgia Tech,Louisville,Louisville,False,5,2024-09-21,0,0.44,True
+16066,S Florida,Miami,Miami,False,5,2024-09-21,0,0.33,True
+16067,USC,Michigan,Michigan,False,5,2024-09-21,1,0.54,False
+16068,Georgia So,Mississippi,Mississippi,False,5,2024-09-21,0,0.39,True
+16069,Vanderbilt,Missouri,Missouri,False,5,2024-09-21,1,0.56,False
+16071,Memphis,Navy,Navy,False,5,2024-09-21,1,0.75,False
+16073,N Texas,Wyoming,N Texas,True,5,2024-09-21,0,0.5,False
+16074,Miami OH,Notre Dame,Notre Dame,False,5,2024-09-21,1,0.55,False
+16075,Ohio St,Marshall,Ohio St,True,5,2024-09-21,1,0.53,True
+16076,Oregon St,Purdue,Oregon St,True,5,2024-09-21,1,0.52,True
+16077,Penn St,Kent St,Penn St,True,5,2024-09-21,0,0.47,False
+16079,Virginia Tech,Rutgers,Rutgers,False,5,2024-09-21,1,0.73,False
+16080,New Mexico St,Sam Houston,Sam Houston,False,5,2024-09-21,0,0.47,True
+16081,South Carolina,Akron,South Carolina,True,5,2024-09-21,1,0.54,True
+16082,SMU,TCU,SMU,True,5,2024-09-21,1,0.51,True
+16083,Utah St,Temple,Temple,False,5,2024-09-21,1,0.53,False
+16084,Oklahoma,Tennessee,Tennessee,False,5,2024-09-21,0,0.48,True
+16085,Texas,UL Monroe,Texas,True,5,2024-09-21,0,0.42,False
+16086,Bowling Green,Texas A&M,Texas A&M,False,5,2024-09-21,0,0.47,True
+16087,Texas Tech,Arizona St,Texas Tech,True,5,2024-09-21,0,0.44,False
+16090,Tulane,Louisiana,Tulane,True,5,2024-09-21,0,0.42,False
+16091,Louisiana Tech,Tulsa,Tulsa,False,5,2024-09-21,1,0.59,False
+16092,Oklahoma St,Utah,Utah,False,5,2024-09-21,1,0.54,False
+16093,Virginia,Coastal Car,Virginia,True,5,2024-09-21,0,0.44,False
+16094,Northwestern,Washington,Washington,False,5,2024-09-21,1,0.56,False
+16095,Kansas,West Virginia,West Virginia,False,5,2024-09-21,1,0.51,False
+16096,Toledo,W Kentucky,W Kentucky,False,5,2024-09-21,1,0.61,False
+16098,Temple,Army,Army,False,6,2024-09-26,1,0.58,False
+16099,Miami,Virginia Tech,Miami,True,6,2024-09-27,1,0.59,True
+16100,Rutgers,Washington,Rutgers,True,6,2024-09-27,0,0.34,False
+16101,Alabama,Georgia,Alabama,True,6,2024-09-28,1,0.57,True
+16102,Arizona,Utah,Arizona,True,6,2024-09-28,0,0.42,False
+16103,Boise St,Washington St,Boise St,True,6,2024-09-28,0,0.47,False
+16104,W Kentucky,Boston College,Boston College,False,6,2024-09-28,1,0.56,False
+16105,Baylor,BYU,BYU,False,6,2024-09-28,1,0.54,False
+16106,San Diego St,C Michigan,C Michigan,False,6,2024-09-28,1,0.53,False
+16107,Charlotte,Rice,Charlotte,True,6,2024-09-28,0,0.46,False
+16108,Stanford,Clemson,Clemson,False,6,2024-09-28,1,0.65,False
+16109,Colorado,UCF,Colorado,True,6,2024-09-28,1,0.56,True
+16110,Buffalo,UConn,UConn,False,6,2024-09-28,1,0.51,False
+16111,North Carolina,Duke,Duke,False,6,2024-09-28,1,0.65,False
+16112,UTSA,E Carolina,E Carolina,False,6,2024-09-28,0,0.46,True
+16113,E Michigan,Kent St,E Michigan,True,6,2024-09-28,0,0.42,False
+16115,Florida Intl,Louisiana Tech,Florida Intl,True,6,2024-09-28,1,0.6,True
+16116,Georgia So,Georgia St,Georgia So,True,6,2024-09-28,1,0.54,True
+16117,Indiana,Maryland,Indiana,True,6,2024-09-28,0,0.48,False
+16118,Iowa St,Houston,Iowa St,True,6,2024-09-28,1,0.6,True
+16119,J Madison,Ball St,J Madison,True,6,2024-09-28,1,0.6833333333333335,True
+16120,Kansas St,Oklahoma St,Kansas St,True,6,2024-09-28,0,0.42,False
+16121,Mississippi,Kentucky,Kentucky,False,6,2024-09-28,0,0.46,True
+16122,Wake Forest,Louisiana,Louisiana,False,6,2024-09-28,1,0.51,False
+16123,LSU,S Alabama,LSU,True,6,2024-09-28,0,0.41,False
+16124,Troy,UL Monroe,UL Monroe,False,6,2024-09-28,1,0.58,False
+16125,Marshall,W Michigan,Marshall,True,6,2024-09-28,0,0.4793333333333334,False
+16126,Memphis,Middle Tenn,Memphis,True,6,2024-09-28,0,0.41,False
+16127,Miami OH,UMass,Miami OH,True,6,2024-09-28,1,0.53,True
+16128,Minnesota,Michigan,Michigan,False,6,2024-09-28,0,0.5,True
+16129,Navy,UAB,Navy,True,6,2024-09-28,1,0.54,True
+16130,Purdue,Nebraska,Nebraska,False,6,2024-09-28,1,0.51,False
+16131,UNLV,Fresno St,UNLV,True,6,2024-09-28,1,0.54,True
+16132,New Mexico,New Mexico St,New Mexico,True,6,2024-09-28,0,0.44,False
+16133,NC State,N Illinois,NC State,True,6,2024-09-28,0,0.44,False
+16134,N Texas,Tulsa,N Texas,True,6,2024-09-28,0,0.41,False
+16135,Louisville,Notre Dame,Notre Dame,False,6,2024-09-28,0,0.48,True
+16136,Akron,Ohio,Ohio,False,6,2024-09-28,0,0.44,True
+16137,Michigan St,Ohio St,Ohio St,False,6,2024-09-28,0,0.49,True
+16138,Oklahoma,Auburn,Oklahoma,True,6,2024-09-28,0,0.5,False
+16139,Old Dominion,Bowling Green,Old Dominion,True,6,2024-09-28,0,0.43,False
+16140,Oregon,UCLA,Oregon,True,6,2024-09-28,1,0.51,True
+16141,Penn St,Illinois,Penn St,True,6,2024-09-28,1,0.54,True
+16142,Sam Houston,Texas St,Sam Houston,True,6,2024-09-28,0,0.43,False
+16143,USC,Wisconsin,USC,True,6,2024-09-28,1,0.62,True
+16144,SMU,Florida St,SMU,True,6,2024-09-28,1,0.63,True
+16147,Mississippi St,Texas,Texas,False,6,2024-09-28,1,0.51,False
+16148,Arkansas,Texas A&M,Texas A&M,False,6,2024-09-28,1,0.57,False
+16149,TCU,Kansas,TCU,True,6,2024-09-28,0,0.41,False
+16150,Texas Tech,Cincinnati,Texas Tech,True,6,2024-09-28,1,0.56,True
+16151,Tulane,S Florida,Tulane,True,6,2024-09-28,0,0.49,False
+16152,Air Force,Wyoming,Wyoming,False,6,2024-09-28,1,0.53,False
+16153,Sam Houston,UTEP,Sam Houston,True,7,2024-10-03,0,0.46,False
+16154,Texas St,Troy,Texas St,True,7,2024-10-03,0,0.43,False
+16155,TCU,Houston,Houston,False,7,2024-10-04,1,0.53,False
+16156,Kennesaw St,Jacksonville St,Jacksonville St,False,7,2024-10-04,1,0.67,False
+16157,Michigan St,Oregon,Oregon,False,7,2024-10-04,1,0.56,False
+16158,UNLV,Syracuse,Syracuse,False,7,2024-10-04,0,0.4,True
+16159,Arizona St,Kansas,Arizona St,True,7,2024-10-05,1,0.64,True
+16160,Tennessee,Arkansas,Arkansas,False,7,2024-10-05,0,0.43,True
+16161,S Alabama,Arkansas St,Arkansas St,False,7,2024-10-05,0,0.43,True
+16162,Army,Tulsa,Army,True,7,2024-10-05,1,0.64,True
+16163,Boise St,Utah St,Boise St,True,7,2024-10-05,1,0.59,True
+16164,Bowling Green,Akron,Bowling Green,True,7,2024-10-05,0,0.37,False
+16165,Charlotte,E Carolina,Charlotte,True,7,2024-10-05,1,0.51,True
+16166,Florida St,Clemson,Clemson,False,7,2024-10-05,0,0.47,True
+16167,Coastal Car,Old Dominion,Coastal Car,True,7,2024-10-05,1,0.52,True
+16168,Temple,UConn,UConn,False,7,2024-10-05,1,0.51,False
+16169,UCF,Florida,Florida,False,7,2024-10-05,0,0.5,True
+16170,Auburn,Georgia,Georgia,False,7,2024-10-05,1,0.59,False
+16171,Georgia Tech,Duke,Georgia Tech,True,7,2024-10-05,1,0.53,True
+16172,Northwestern,Indiana,Indiana,False,7,2024-10-05,0,0.37,True
+16173,Baylor,Iowa St,Iowa St,False,7,2024-10-05,0,0.37,True
+16174,Louisiana,Southern Miss,Louisiana,True,7,2024-10-05,1,0.66,True
+16175,J Madison,UL Monroe,UL Monroe,False,7,2024-10-05,0,0.5,True
+16176,App State,Marshall,Marshall,False,7,2024-10-05,0,0.47,True
+16177,Miami,California,Miami,True,7,2024-10-05,1,0.51,True
+16178,Minnesota,USC,Minnesota,True,7,2024-10-05,0,0.37,False
+16179,South Carolina,Mississippi,Mississippi,False,7,2024-10-05,1,0.58,False
+16180,Air Force,Navy,Navy,False,7,2024-10-05,1,0.53,False
+16181,Nebraska,Rutgers,Nebraska,True,7,2024-10-05,1,0.56,True
+16182,N Illinois,UMass,N Illinois,True,7,2024-10-05,0,0.39,False
+16183,Iowa,Ohio St,Ohio St,False,7,2024-10-05,1,0.55,False
+16184,Colorado St,Oregon St,Oregon St,False,7,2024-10-05,0,0.42,True
+16185,UCLA,Penn St,Penn St,False,7,2024-10-05,1,0.52,False
+16186,Pittsburgh,North Carolina,Pittsburgh,True,7,2024-10-05,0,0.49,False
+16187,Hawai'i,San Diego St,San Diego St,False,7,2024-10-05,1,0.64,False
+16188,San Jose St,Nevada,San Jose St,True,7,2024-10-05,0,0.41,False
+16189,SMU,Louisville,SMU,True,7,2024-10-05,1,0.62,True
+16190,Missouri,Texas A&M,Texas A&M,False,7,2024-10-05,0,0.48,True
+16191,Texas Tech,Arizona,Texas Tech,True,7,2024-10-05,1,0.61,True
+16192,Toledo,Miami OH,Toledo,True,7,2024-10-05,1,0.64,True
+16193,UAB,Tulane,Tulane,False,7,2024-10-05,0,0.5,True
+16194,Vanderbilt,Alabama,Vanderbilt,True,7,2024-10-05,1,0.52,True
+16195,Virginia,Boston College,Virginia,True,7,2024-10-05,1,0.52,True
+16196,Stanford,Virginia Tech,Virginia Tech,False,7,2024-10-05,0,0.41,True
+16197,Wake Forest,NC State,Wake Forest,True,7,2024-10-05,0,0.37,False
+16198,Washington,Michigan,Washington,True,7,2024-10-05,1,0.53,True
+16199,Oklahoma St,West Virginia,West Virginia,False,7,2024-10-05,1,0.52,False
+16200,W Michigan,Ball St,W Michigan,True,7,2024-10-05,0,0.45,False
+16201,Wisconsin,Purdue,Wisconsin,True,7,2024-10-05,1,0.59,True
+16202,Florida Intl,Liberty,Liberty,False,8,2024-10-08,0,0.44,True
+16203,New Mexico St,Jacksonville St,Jacksonville St,False,8,2024-10-09,0,0.48,True
+16204,J Madison,Coastal Car,J Madison,True,8,2024-10-10,0,0.49,False
+16205,Middle Tenn,Louisiana Tech,Louisiana Tech,False,8,2024-10-10,1,0.51,False
+16206,UTEP,W Kentucky,W Kentucky,False,8,2024-10-10,0,0.48,True
+16207,Utah,Arizona St,Arizona St,False,8,2024-10-11,0,0.45,True
+16208,UNLV,Utah St,UNLV,True,8,2024-10-11,1,0.55,True
+16209,Maryland,Northwestern,Northwestern,False,8,2024-10-11,1,0.57,False
+16210,Alabama,South Carolina,Alabama,True,8,2024-10-12,1,0.59,True
+16211,UAB,Army,Army,False,8,2024-10-12,1,0.52,False
+16212,Kent St,Ball St,Ball St,False,8,2024-10-12,0,0.47,True
+16213,Hawai'i,Boise St,Boise St,False,8,2024-10-12,0,0.48,True
+16214,Arizona,BYU,BYU,False,8,2024-10-12,1,0.52,False
+16215,Toledo,Buffalo,Buffalo,False,8,2024-10-12,1,0.56,False
+16216,UCF,Cincinnati,Cincinnati,False,8,2024-10-12,0,0.35,True
+16217,Wake Forest,Clemson,Clemson,False,8,2024-10-12,1,0.59,False
+16218,San Jose St,Colorado St,Colorado St,False,8,2024-10-12,0,0.38,True
+16219,Georgia,Mississippi St,Georgia,True,8,2024-10-12,1,0.53,True
+16220,Marshall,Georgia So,Georgia So,False,8,2024-10-12,0,0.46,True
+16221,North Carolina,Georgia Tech,Georgia Tech,False,8,2024-10-12,0,0.49,True
+16222,Purdue,Illinois,Illinois,False,8,2024-10-12,0,0.47,True
+16223,Washington,Iowa,Iowa,False,8,2024-10-12,0,0.45,True
+16224,Iowa St,West Virginia,Iowa St,True,8,2024-10-12,1,0.56,True
+16225,Kansas St,Colorado,Kansas St,True,8,2024-10-12,0,0.48,False
+16226,Louisiana,App State,Louisiana,True,8,2024-10-12,1,0.53,True
+16227,Mississippi,LSU,LSU,False,8,2024-10-12,0,0.36,True
+16228,Southern Miss,UL Monroe,UL Monroe,False,8,2024-10-12,1,0.51,False
+16229,Virginia,Louisville,Louisville,False,8,2024-10-12,0,0.48,True
+16230,S Florida,Memphis,Memphis,False,8,2024-10-12,0,0.31,True
+16231,Miami OH,E Michigan,Miami OH,True,8,2024-10-12,1,0.51,True
+16232,UCLA,Minnesota,Minnesota,False,8,2024-10-12,1,0.53,False
+16233,Missouri,UMass,Missouri,True,8,2024-10-12,0,0.36,False
+16234,Nevada,Oregon St,Nevada,True,8,2024-10-12,1,0.55,True
+16235,New Mexico,Air Force,New Mexico,True,8,2024-10-12,0,0.42,False
+16236,Florida Atlantic,N Texas,N Texas,False,8,2024-10-12,0,0.44,True
+16237,Bowling Green,N Illinois,N Illinois,False,8,2024-10-12,1,0.61,False
+16238,Notre Dame,Stanford,Notre Dame,True,8,2024-10-12,0,0.44,False
+16239,C Michigan,Ohio,Ohio,False,8,2024-10-12,0,0.39,True
+16240,Old Dominion,Georgia St,Old Dominion,True,8,2024-10-12,1,0.53,True
+16241,Oregon,Ohio St,Oregon,True,8,2024-10-12,0,0.42,False
+16242,Penn St,USC,Penn St,True,8,2024-10-12,1,0.6,True
+16243,California,Pittsburgh,Pittsburgh,False,8,2024-10-12,1,0.6,False
+16244,Rice,UTSA,Rice,True,8,2024-10-12,1,0.57,True
+16245,Wyoming,San Diego St,San Diego St,False,8,2024-10-12,0,0.43,True
+16246,NC State,Syracuse,Syracuse,False,8,2024-10-12,0,0.38,True
+16247,Florida,Tennessee,Tennessee,False,8,2024-10-12,1,0.61,False
+16248,Oklahoma,Texas,Texas,False,8,2024-10-12,0,0.45,True
+16249,Arkansas St,Texas St,Texas St,False,8,2024-10-12,0,0.45,True
+16250,Vanderbilt,Kentucky,Vanderbilt,True,8,2024-10-12,0,0.44,False
+16251,Washington St,Fresno St,Washington St,True,8,2024-10-12,0,0.5,False
+16252,W Michigan,Akron,W Michigan,True,8,2024-10-12,0,0.3933333333333333,False
+16253,Wisconsin,Rutgers,Wisconsin,True,8,2024-10-12,1,0.58,True
+16254,Kennesaw St,Middle Tenn,Middle Tenn,False,9,2024-10-15,0,0.4,True
+16255,Louisiana Tech,New Mexico St,New Mexico St,False,9,2024-10-15,1,0.7,False
+16256,S Alabama,Troy,S Alabama,True,9,2024-10-15,0,0.43,False
+16257,Florida Intl,UTEP,UTEP,False,9,2024-10-16,1,0.55,False
+16258,Sam Houston,W Kentucky,W Kentucky,False,9,2024-10-16,0,0.41,True
+16259,Georgia St,Marshall,Marshall,False,9,2024-10-17,1,0.52,False
+16260,Virginia Tech,Boston College,Virginia Tech,True,9,2024-10-17,0,0.45,False
+16261,BYU,Oklahoma St,BYU,True,9,2024-10-18,0,0.5,False
+16262,Florida St,Duke,Duke,False,9,2024-10-18,0,0.48,True
+16263,Nevada,Fresno St,Fresno St,False,9,2024-10-18,0,0.48,True
+16264,Oregon,Purdue,Oregon,True,9,2024-10-18,1,0.61,True
+16265,Arkansas St,Southern Miss,Arkansas St,True,9,2024-10-19,1,0.59,True
+16266,Army,E Carolina,Army,True,9,2024-10-19,0,0.49,False
+16267,Texas Tech,Baylor,Baylor,False,9,2024-10-19,1,0.63,False
+16268,Bowling Green,Kent St,Bowling Green,True,9,2024-10-19,0,0.45,False
+16269,Arizona St,Cincinnati,Cincinnati,False,9,2024-10-19,0,0.35,True
+16270,Virginia,Clemson,Clemson,False,9,2024-10-19,1,0.59,False
+16271,Arizona,Colorado,Colorado,False,9,2024-10-19,0,0.32,True
+16272,Air Force,Colorado St,Colorado St,False,9,2024-10-19,1,0.53,False
+16273,E Michigan,C Michigan,E Michigan,True,9,2024-10-19,1,0.6,True
+16274,Kentucky,Florida,Florida,False,9,2024-10-19,0,0.5,True
+16275,Texas,Georgia,Georgia,False,9,2024-10-19,1,0.57,False
+16276,Georgia So,J Madison,Georgia So,True,9,2024-10-19,1,0.67,True
+16277,Illinois,Michigan,Illinois,True,9,2024-10-19,0,0.49,False
+16278,Nebraska,Indiana,Indiana,False,9,2024-10-19,1,0.62,False
+16279,Iowa St,UCF,Iowa St,True,9,2024-10-19,1,0.51,True
+16280,Kansas,Houston,Kansas,True,9,2024-10-19,0,0.44,False
+16281,West Virginia,Kansas St,Kansas St,False,9,2024-10-19,0,0.46,True
+16282,Louisiana,Coastal Car,Louisiana,True,9,2024-10-19,1,0.63,True
+16283,LSU,Arkansas,LSU,True,9,2024-10-19,1,0.55,True
+16284,USC,Maryland,Maryland,False,9,2024-10-19,1,0.53,False
+16285,N Texas,Memphis,Memphis,False,9,2024-10-19,0,0.43,True
+16286,Louisville,Miami,Miami,False,9,2024-10-19,0,0.41,True
+16287,Miami OH,Ohio,Miami OH,True,9,2024-10-19,1,0.53,True
+16288,Iowa,Michigan St,Michigan St,False,9,2024-10-19,0,0.47,True
+16289,Missouri,Auburn,Missouri,True,9,2024-10-19,1,0.53,True
+16290,Charlotte,Navy,Navy,False,9,2024-10-19,0,0.43,True
+16291,Oregon St,UNLV,UNLV,False,9,2024-10-19,1,0.67,False
+16292,Utah St,New Mexico,New Mexico,False,9,2024-10-19,0,0.49,True
+16293,California,NC State,NC State,False,9,2024-10-19,1,0.51,False
+16294,Notre Dame,Georgia Tech,Notre Dame,True,9,2024-10-19,0,0.42,False
+16295,Old Dominion,Texas St,Old Dominion,True,9,2024-10-19,0,0.34,False
+16296,San Jose St,Wyoming,San Jose St,True,9,2024-10-19,0,0.47,False
+16297,South Carolina,Oklahoma,South Carolina,True,9,2024-10-19,0,0.47,False
+16298,UAB,S Florida,S Florida,False,9,2024-10-19,0,0.47,True
+16299,SMU,Stanford,SMU,True,9,2024-10-19,1,0.65,True
+16300,Tulsa,Temple,Temple,False,9,2024-10-19,0,0.48,True
+16301,Tennessee,Alabama,Tennessee,True,9,2024-10-19,0,0.31,False
+16302,Mississippi St,Texas A&M,Texas A&M,False,9,2024-10-19,1,0.61,False
+16303,TCU,Utah,TCU,True,9,2024-10-19,0,0.43,False
+16304,UTSA,Florida Atlantic,UTSA,True,9,2024-10-19,0,0.35,False
+16305,N Illinois,Toledo,Toledo,False,9,2024-10-19,0,0.5,True
+16306,Tulane,Rice,Tulane,True,9,2024-10-19,1,0.6,True
+16307,Rutgers,UCLA,UCLA,False,9,2024-10-19,1,0.66,False
+16308,Ball St,Vanderbilt,Vanderbilt,False,9,2024-10-19,1,0.62,False
+16309,Wake Forest,UConn,Wake Forest,True,9,2024-10-19,0,0.42,False
+16310,Washington St,Hawai'i,Washington St,True,9,2024-10-19,1,0.51,True
+16311,W Michigan,Buffalo,W Michigan,True,9,2024-10-19,0,0.45,False
+16312,Wisconsin,Northwestern,Wisconsin,True,9,2024-10-19,1,0.58,True
+16313,Louisiana Tech,UTEP,Louisiana Tech,True,10,2024-10-22,1,0.56,True
+16314,Florida Intl,Sam Houston,Sam Houston,False,10,2024-10-22,0,0.48,True
+16315,Middle Tenn,Jacksonville St,Jacksonville St,False,10,2024-10-23,0,0.47,True
+16316,Liberty,Kennesaw St,Kennesaw St,False,10,2024-10-23,0,0.43,True
+16317,Georgia So,Old Dominion,Old Dominion,False,10,2024-10-24,0,0.46,True
+16318,Pittsburgh,Syracuse,Pittsburgh,True,10,2024-10-24,1,0.59,True
+16319,Boise St,UNLV,Boise St,True,10,2024-10-25,0,0.5,False
+16320,Boston College,Louisville,Louisville,False,10,2024-10-25,1,0.52,False
+16321,USC,Rutgers,USC,True,10,2024-10-25,0,0.49,False
+16322,Akron,E Michigan,Akron,True,10,2024-10-26,0,0.39,False
+16323,Missouri,Alabama,Alabama,False,10,2024-10-26,0,0.39,True
+16324,App State,Georgia St,App State,True,10,2024-10-26,1,0.505,True
+16325,Arkansas,Mississippi St,Arkansas,True,10,2024-10-26,1,0.55,True
+16326,Arkansas St,Troy,Arkansas St,True,10,2024-10-26,1,0.58,True
+16327,Kentucky,Auburn,Auburn,False,10,2024-10-26,0,0.44,True
+16328,N Illinois,Ball St,Ball St,False,10,2024-10-26,0,0.46,True
+16329,Oklahoma St,Baylor,Baylor,False,10,2024-10-26,0,0.45,True
+16330,Bowling Green,Toledo,Bowling Green,True,10,2024-10-26,1,0.52,True
+16331,BYU,UCF,BYU,True,10,2024-10-26,0,0.43,False
+16332,California,Oregon St,California,True,10,2024-10-26,1,0.51,True
+16333,Colorado,Cincinnati,Colorado,True,10,2024-10-26,1,0.51,True
+16334,New Mexico,Colorado St,Colorado St,False,10,2024-10-26,0,0.43,True
+16335,Rice,UConn,UConn,False,10,2024-10-26,0,0.48,True
+16336,E Carolina,Temple,E Carolina,True,10,2024-10-26,1,0.7,True
+16337,Fresno St,San Jose St,Fresno St,True,10,2024-10-26,1,0.51,True
+16338,Houston,Utah,Houston,True,10,2024-10-26,0,0.43,False
+16339,Washington,Indiana,Indiana,False,10,2024-10-26,0,0.37,True
+16340,Iowa,Northwestern,Iowa,True,10,2024-10-26,0,0.46,False
+16341,J Madison,Southern Miss,J Madison,True,10,2024-10-26,1,0.65,True
+16342,Kansas St,Kansas,Kansas St,True,10,2024-10-26,1,0.56,True
+16344,Memphis,Charlotte,Memphis,True,10,2024-10-26,1,0.7,True
+16345,Miami,Florida St,Miami,True,10,2024-10-26,1,0.69,True
+16346,Miami OH,C Michigan,Miami OH,True,10,2024-10-26,0,0.46,False
+16347,Michigan St,Michigan,Michigan,False,10,2024-10-26,0,0.42,True
+16348,Minnesota,Maryland,Minnesota,True,10,2024-10-26,1,0.53,True
+16349,Mississippi,Oklahoma,Mississippi,True,10,2024-10-26,0,0.47,False
+16350,Virginia,North Carolina,North Carolina,False,10,2024-10-26,1,0.54,False
+16351,Navy,Notre Dame,Notre Dame,False,10,2024-10-26,0,0.39,True
+16352,Ohio,Buffalo,Ohio,True,10,2024-10-26,0,0.43,False
+16353,Nebraska,Ohio St,Ohio St,False,10,2024-10-26,1,0.6,False
+16354,Illinois,Oregon,Oregon,False,10,2024-10-26,0,0.32,True
+16355,Wisconsin,Penn St,Penn St,False,10,2024-10-26,0,0.37,True
+16356,S Alabama,UL Monroe,S Alabama,True,10,2024-10-26,0,0.36,False
+16357,Duke,SMU,SMU,False,10,2024-10-26,0,0.38,True
+16358,Vanderbilt,Texas,Texas,False,10,2024-10-26,0,0.41,True
+16359,LSU,Texas A&M,Texas A&M,False,10,2024-10-26,1,0.59,False
+16360,Texas Tech,TCU,TCU,False,10,2024-10-26,0,0.39,True
+16361,Tulane,N Texas,Tulane,True,10,2024-10-26,0,0.42,False
+16362,UTSA,Tulsa,Tulsa,False,10,2024-10-26,0,0.45,True
+16363,Utah St,Wyoming,Utah St,True,10,2024-10-26,0,0.38,False
+16364,Virginia Tech,Georgia Tech,Virginia Tech,True,10,2024-10-26,1,0.53,True
+16365,Stanford,Wake Forest,Wake Forest,False,10,2024-10-26,0,0.45,True
+16366,San Diego St,Washington St,Washington St,False,10,2024-10-26,1,0.54,False
+16367,Arizona,West Virginia,West Virginia,False,10,2024-10-26,1,0.51,False
+16368,Kent St,W Michigan,W Michigan,False,10,2024-10-26,1,0.51,False
+16369,Hawai'i,Nevada,Hawai'i,True,10,2024-10-27,0,0.49,False
+16370,New Mexico St,Florida Intl,Florida Intl,False,11,2024-10-29,1,0.62,False
+16371,Louisiana,Texas St,Louisiana,True,11,2024-10-29,1,0.55,True
+16372,Sam Houston,Louisiana Tech,Sam Houston,True,11,2024-10-29,1,0.555,True
+16373,Jacksonville St,Liberty,Jacksonville St,True,11,2024-10-30,1,0.52,True
+16374,W Kentucky,Kennesaw St,W Kentucky,True,11,2024-10-30,1,0.53,True
+16375,Tulane,Charlotte,Tulane,True,11,2024-10-31,1,0.52,True
+16376,San Diego St,Boise St,Boise St,False,11,2024-11-01,0,0.47,True
+16377,Georgia St,UConn,UConn,False,11,2024-11-01,1,0.6,False
+16378,S Florida,Florida Atlantic,S Florida,True,11,2024-11-01,1,0.56,True
+16379,Tulsa,UAB,UAB,False,11,2024-11-02,1,0.5933333333333333,False
+16380,App State,Old Dominion,App State,True,11,2024-11-02,1,0.56,True
+16381,Oklahoma St,Arizona St,Arizona St,False,11,2024-11-02,1,0.58,False
+16382,Army,Air Force,Army,True,11,2024-11-02,1,0.71,True
+16383,TCU,Baylor,Baylor,False,11,2024-11-02,0,0.45,True
+16384,Akron,Buffalo,Buffalo,False,11,2024-11-02,0,0.43,True
+16385,UCF,Arizona,UCF,True,11,2024-11-02,0,0.39799999999999996,False
+16386,Nevada,Colorado St,Colorado St,False,11,2024-11-02,0,0.45,True
+16387,Florida,Georgia,Georgia,False,11,2024-11-02,1,0.64,False
+16388,S Alabama,Georgia So,Georgia So,False,11,2024-11-02,0,0.435,True
+16389,Hawai'i,Fresno St,Hawai'i,True,11,2024-11-02,0,0.45,False
+16390,Houston,Kansas St,Houston,True,11,2024-11-02,1,0.51,True
+16391,Michigan St,Indiana,Indiana,False,11,2024-11-02,1,0.52,False
+16392,Iowa,Wisconsin,Iowa,True,11,2024-11-02,0,0.49666666666666665,False
+16393,Louisville,Clemson,Louisville,True,11,2024-11-02,0,0.37,False
+16394,UL Monroe,Marshall,Marshall,False,11,2024-11-02,0,0.48,True
+16395,Duke,Miami,Miami,False,11,2024-11-02,0,0.38,True
+16396,Middle Tenn,UTEP,Middle Tenn,True,11,2024-11-02,0,0.37,False
+16397,Minnesota,Illinois,Minnesota,True,11,2024-11-02,0,0.435,False
+16398,Arkansas,Mississippi,Mississippi,False,11,2024-11-02,1,0.67,False
+16399,UMass,Mississippi St,Mississippi St,False,11,2024-11-02,1,0.65,False
+16400,North Carolina,Florida St,North Carolina,True,11,2024-11-02,0,0.5,False
+16401,NC State,Stanford,NC State,True,11,2024-11-02,0,0.37,False
+16402,Purdue,Northwestern,Northwestern,False,11,2024-11-02,1,0.59,False
+16403,Ohio St,Penn St,Ohio St,True,11,2024-11-02,1,0.55,True
+16405,Oregon,Michigan,Oregon,True,11,2024-11-02,1,0.66,True
+16406,Navy,Rice,Rice,False,11,2024-11-02,1,0.56,False
+16407,South Carolina,Texas A&M,South Carolina,True,11,2024-11-02,0,0.43,False
+16408,Pittsburgh,SMU,SMU,False,11,2024-11-02,1,0.58,False
+16409,Virginia Tech,Syracuse,Syracuse,False,11,2024-11-02,0,0.5,True
+16410,Kentucky,Tennessee,Tennessee,False,11,2024-11-02,1,0.67,False
+16411,Texas Tech,Iowa St,Texas Tech,True,11,2024-11-02,0,0.49,False
+16412,UTSA,Memphis,UTSA,True,11,2024-11-02,0,0.41,False
+16413,Toledo,E Michigan,Toledo,True,11,2024-11-02,1,0.55,True
+16414,Coastal Car,Troy,Troy,False,11,2024-11-02,0,0.34,True
+16415,UCLA,Nebraska,UCLA,True,11,2024-11-02,1,0.51,True
+16416,Vanderbilt,Auburn,Vanderbilt,True,11,2024-11-02,1,0.61,True
+16417,USC,Washington,Washington,False,11,2024-11-02,0,0.47,True
+16418,New Mexico,Wyoming,Wyoming,False,11,2024-11-02,0,0.47,True
+16419,Bowling Green,C Michigan,Bowling Green,True,12,2024-11-05,1,0.53,True
+16420,Ball St,Miami OH,Miami OH,False,12,2024-11-05,1,0.62,False
+16421,N Illinois,W Michigan,N Illinois,True,12,2024-11-06,1,0.57,True
+16422,Ohio,Kent St,Ohio,True,12,2024-11-06,0,0.43,False
+16423,App State,Coastal Car,Coastal Car,False,12,2024-11-07,0,0.46,True
+16424,Florida Atlantic,E Carolina,E Carolina,False,12,2024-11-07,1,0.58,False
+16425,California,Wake Forest,California,True,12,2024-11-08,0,0.36,False
+16426,Memphis,Rice,Memphis,True,12,2024-11-08,0,0.47,False
+16427,New Mexico,San Diego St,New Mexico,True,12,2024-11-08,1,0.58,True
+16428,UCLA,Iowa,UCLA,True,12,2024-11-08,0,0.31,False
+16429,Air Force,Fresno St,Air Force,True,12,2024-11-09,1,0.56,True
+16430,LSU,Alabama,Alabama,False,12,2024-11-09,0,0.44,True
+16431,Arizona St,UCF,Arizona St,True,12,2024-11-09,1,0.51,True
+16432,N Texas,Army,Army,False,12,2024-11-09,1,0.59,False
+16433,Boise St,Nevada,Boise St,True,12,2024-11-09,0,0.41,False
+16434,Boston College,Syracuse,Boston College,True,12,2024-11-09,0,0.47,False
+16435,Utah,BYU,BYU,False,12,2024-11-09,0,0.4,True
+16436,Clemson,Virginia Tech,Clemson,True,12,2024-11-09,1,0.55,True
+16437,Texas Tech,Colorado,Colorado,False,12,2024-11-09,0,0.47,True
+16438,UConn,UAB,UConn,True,12,2024-11-09,0,0.49,False
+16439,NC State,Duke,Duke,False,12,2024-11-09,1,0.54,False
+16440,Georgia Tech,Miami,Georgia Tech,True,12,2024-11-09,0,0.49,False
+16441,Michigan,Indiana,Indiana,False,12,2024-11-09,0,0.42,True
+16442,Louisiana Tech,Jacksonville St,Jacksonville St,False,12,2024-11-09,0,0.43,True
+16443,Georgia St,J Madison,J Madison,False,12,2024-11-09,1,0.63,False
+16444,Kansas,Iowa St,Kansas,True,12,2024-11-09,0,0.43,False
+16445,Liberty,Middle Tenn,Liberty,True,12,2024-11-09,1,0.6433333333333333,True
+16446,Louisiana,Arkansas St,Louisiana,True,12,2024-11-09,1,0.62,True
+16447,Marshall,Southern Miss,Marshall,True,12,2024-11-09,1,0.64,True
+16448,Mississippi,Georgia,Mississippi,True,12,2024-11-09,1,0.55,True
+16449,Oklahoma,Missouri,Missouri,False,12,2024-11-09,1,0.57,False
+16450,Navy,S Florida,Navy,True,12,2024-11-09,1,0.51,True
+16451,UNLV,Hawai'i,UNLV,True,12,2024-11-09,0,0.45,False
+16452,Notre Dame,Florida St,Notre Dame,True,12,2024-11-09,1,0.7,True
+16453,Purdue,Ohio St,Ohio St,False,12,2024-11-09,1,0.51,False
+16454,Oregon,Maryland,Oregon,True,12,2024-11-09,0,0.49,False
+16455,Penn St,Washington,Penn St,True,12,2024-11-09,0,0.49,False
+16456,Rutgers,Minnesota,Rutgers,True,12,2024-11-09,1,0.64,True
+16457,San Jose St,Oregon St,San Jose St,True,12,2024-11-09,0,0.43,False
+16458,Vanderbilt,South Carolina,South Carolina,False,12,2024-11-09,0,0.47,True
+16459,Tennessee,Mississippi St,Tennessee,True,12,2024-11-09,1,0.53,True
+16460,Texas,Florida,Texas,True,12,2024-11-09,1,0.63,True
+16461,Oklahoma St,TCU,TCU,False,12,2024-11-09,1,0.65,False
+16462,UL Monroe,Texas St,Texas St,False,12,2024-11-09,0,0.4,True
+16463,Kennesaw St,UTEP,UTEP,False,12,2024-11-09,0,0.48,True
+16464,Temple,Tulane,Tulane,False,12,2024-11-09,1,0.67,False
+16465,Virginia,Pittsburgh,Virginia,True,12,2024-11-09,1,0.52,True
+16466,Utah St,Washington St,Washington St,False,12,2024-11-09,0,0.5,True
+16467,West Virginia,Cincinnati,West Virginia,True,12,2024-11-09,1,0.54,True
+16468,W Kentucky,New Mexico St,W Kentucky,True,12,2024-11-09,0,0.5,False
+16469,W Michigan,Bowling Green,Bowling Green,False,13,2024-11-12,1,0.52,False
+16470,Buffalo,Ball St,Buffalo,True,13,2024-11-12,0,0.475,False
+16471,Toledo,C Michigan,Toledo,True,13,2024-11-12,1,0.54,True
+16472,Kent St,Miami OH,Miami OH,False,13,2024-11-13,0,0.5,True
+16473,N Illinois,Akron,N Illinois,True,13,2024-11-13,0,0.46,False
+16474,Ohio,E Michigan,Ohio,True,13,2024-11-13,1,0.62,True
+16475,Tulsa,E Carolina,E Carolina,False,13,2024-11-14,1,0.61,False
+16476,Houston,Arizona,Arizona,False,13,2024-11-15,0,0.44,True
+16477,Colorado St,Wyoming,Colorado St,True,13,2024-11-15,1,0.67,True
+16478,N Texas,UTSA,UTSA,False,13,2024-11-15,0,0.45,True
+16479,UCLA,Washington,Washington,False,13,2024-11-15,1,0.63,False
+16480,Oregon St,Air Force,Air Force,False,13,2024-11-16,1,0.64,False
+16482,Kansas St,Arizona St,Arizona St,False,13,2024-11-16,0,0.44,True
+16483,Georgia St,Arkansas St,Arkansas St,False,13,2024-11-16,0,0.4,True
+16484,UL Monroe,Auburn,Auburn,False,13,2024-11-16,1,0.6,False
+16485,Baylor,West Virginia,Baylor,True,13,2024-11-16,1,0.62,True
+16486,San Jose St,Boise St,Boise St,False,13,2024-11-16,1,0.59,False
+16487,Pittsburgh,Clemson,Clemson,False,13,2024-11-16,1,0.61,False
+16488,Utah,Colorado,Colorado,False,13,2024-11-16,1,0.57,False
+16489,Florida,LSU,Florida,True,13,2024-11-16,1,0.52,True
+16490,Georgia,Tennessee,Georgia,True,13,2024-11-16,0,0.46,False
+16491,Michigan St,Illinois,Illinois,False,13,2024-11-16,0,0.43,True
+16492,Iowa St,Cincinnati,Iowa St,True,13,2024-11-16,0,0.39,False
+16493,Florida Intl,Jacksonville St,Jacksonville St,False,13,2024-11-16,0,0.48,True
+16494,J Madison,Old Dominion,J Madison,True,13,2024-11-16,1,0.51,True
+16495,BYU,Kansas,Kansas,False,13,2024-11-16,0,0.43,True
+16497,UMass,Liberty,Liberty,False,13,2024-11-16,1,0.53,False
+16498,Louisiana Tech,W Kentucky,Louisiana Tech,True,13,2024-11-16,0,0.49,False
+16499,Coastal Car,Marshall,Marshall,False,13,2024-11-16,0,0.49,True
+16500,UAB,Memphis,Memphis,False,13,2024-11-16,0,0.45,True
+16501,San Diego St,UNLV,UNLV,False,13,2024-11-16,1,0.56,False
+16502,Washington St,New Mexico,New Mexico,False,13,2024-11-16,1,0.57,False
+16503,North Carolina,Wake Forest,North Carolina,True,13,2024-11-16,1,0.61,True
+16504,Notre Dame,Virginia,Notre Dame,True,13,2024-11-16,1,0.59,True
+16505,Ohio St,Northwestern,Ohio St,True,13,2024-11-16,0,0.37,False
+16506,Wisconsin,Oregon,Oregon,False,13,2024-11-16,1,0.51,False
+16507,Penn St,Purdue,Penn St,True,13,2024-11-16,1,0.6,True
+16508,Rutgers,Maryland,Rutgers,True,13,2024-11-16,0,0.33,False
+16509,Kennesaw St,Sam Houston,Sam Houston,False,13,2024-11-16,1,0.57,False
+16510,Louisiana,S Alabama,S Alabama,False,13,2024-11-16,0,0.44,True
+16511,South Carolina,Missouri,South Carolina,True,13,2024-11-16,1,0.59,True
+16512,Charlotte,S Florida,S Florida,False,13,2024-11-16,0,0.39,True
+16513,Nebraska,USC,USC,False,13,2024-11-16,0,0.38,True
+16514,Boston College,SMU,SMU,False,13,2024-11-16,0,0.46,True
+16515,Louisville,Stanford,Stanford,False,13,2024-11-16,0,0.5,True
+16516,California,Syracuse,Syracuse,False,13,2024-11-16,1,0.5716666666666667,False
+16517,Temple,Florida Atlantic,Temple,True,13,2024-11-16,0,0.36,False
+16518,Arkansas,Texas,Texas,False,13,2024-11-16,1,0.58,False
+16519,New Mexico St,Texas A&M,Texas A&M,False,13,2024-11-16,1,0.56,False
+16520,Texas St,Southern Miss,Texas St,True,13,2024-11-16,0,0.46,False
+16521,Troy,Georgia So,Troy,True,13,2024-11-16,0,0.44,False
+16522,Tulane,Navy,Tulane,True,13,2024-11-16,0,0.47,False
+16523,Hawai'i,Utah St,Utah St,False,13,2024-11-16,1,0.54,False
+16524,Akron,Kent St,Akron,True,14,2024-11-19,1,0.55,True
+16525,W Michigan,C Michigan,C Michigan,False,14,2024-11-19,1,0.59,False
+16526,Miami OH,N Illinois,Miami OH,True,14,2024-11-19,0,0.39,False
+16527,E Michigan,Buffalo,Buffalo,False,14,2024-11-20,0,0.36,True
+16528,Toledo,Ohio,Ohio,False,14,2024-11-20,0,0.48,True
+16529,NC State,Georgia Tech,Georgia Tech,False,14,2024-11-21,0,0.47,True
+16530,Michigan St,Purdue,Michigan St,True,14,2024-11-22,1,0.52,True
+16531,UNLV,San Jose St,UNLV,True,14,2024-11-22,0,0.5,False
+16532,UTSA,Temple,UTSA,True,14,2024-11-22,0,0.5,False
+16533,Nevada,Air Force,Air Force,False,14,2024-11-23,1,0.61,False
+16534,UAB,Rice,UAB,True,14,2024-11-23,1,0.66,True
+16535,J Madison,App State,App State,False,14,2024-11-23,1,0.57,False
+16536,BYU,Arizona St,Arizona St,False,14,2024-11-23,0,0.39,True
+16537,Louisiana Tech,Arkansas,Arkansas,False,14,2024-11-23,0,0.44,True
+16538,UL Monroe,Arkansas St,Arkansas St,False,14,2024-11-23,1,0.54,False
+16539,Auburn,Texas A&M,Auburn,True,14,2024-11-23,0,0.47,False
+16540,Houston,Baylor,Baylor,False,14,2024-11-23,1,0.61,False
+16541,Wyoming,Boise St,Boise St,False,14,2024-11-23,1,0.54,False
+16542,North Carolina,Boston College,Boston College,False,14,2024-11-23,1,0.63,False
+16543,Ball St,Bowling Green,Bowling Green,False,14,2024-11-23,0,0.42,True
+16544,Stanford,California,California,False,14,2024-11-23,1,0.59,False
+16545,Charlotte,Florida Atlantic,Charlotte,True,14,2024-11-23,1,0.5291666666666667,True
+16547,Virginia Tech,Duke,Duke,False,14,2024-11-23,1,0.5833333333333334,False
+16548,N Texas,E Carolina,E Carolina,False,14,2024-11-23,1,0.745,False
+16549,Mississippi,Florida,Florida,False,14,2024-11-23,0,0.49,True
+16551,Colorado St,Fresno St,Fresno St,False,14,2024-11-23,0,0.48,True
+16552,Georgia,UMass,Georgia,True,14,2024-11-23,0,0.45,False
+16553,Coastal Car,Georgia So,Georgia So,False,14,2024-11-23,0,0.49,True
+16554,Texas St,Georgia St,Georgia St,False,14,2024-11-23,1,0.52,False
+16555,Rutgers,Illinois,Illinois,False,14,2024-11-23,0,0.49,True
+16556,Maryland,Iowa,Iowa,False,14,2024-11-23,0,0.43,True
+16557,Utah,Iowa St,Iowa St,False,14,2024-11-23,1,0.67,False
+16558,Jacksonville St,Sam Houston,Jacksonville St,True,14,2024-11-23,0,0.46,False
+16559,Kansas,Colorado,Kansas,True,14,2024-11-23,0,0.38,False
+16560,Cincinnati,Kansas St,Kansas St,False,14,2024-11-23,1,0.5025,False
+16561,Florida Intl,Kennesaw St,Kennesaw St,False,14,2024-11-23,0,0.46,True
+16562,Liberty,W Kentucky,Liberty,True,14,2024-11-23,0,0.38,False
+16563,Troy,Louisiana,Louisiana,False,14,2024-11-23,0,0.45,True
+16564,Vanderbilt,LSU,LSU,False,14,2024-11-23,1,0.51,False
+16565,Pittsburgh,Louisville,Louisville,False,14,2024-11-23,1,0.61,False
+16566,Marshall,Old Dominion,Marshall,True,14,2024-11-23,0,0.45,False
+16567,Wake Forest,Miami,Miami,False,14,2024-11-23,1,0.53,False
+16568,Michigan,Northwestern,Michigan,True,14,2024-11-23,1,0.6916666666666668,True
+16569,Mississippi St,Missouri,Missouri,False,14,2024-11-23,1,0.64,False
+16570,Wisconsin,Nebraska,Nebraska,False,14,2024-11-23,0,0.44,True
+16571,New Mexico St,Middle Tenn,New Mexico St,True,14,2024-11-23,0,0.4,False
+16572,Notre Dame,Army,Notre Dame,True,14,2024-11-23,0,0.49,False
+16573,Ohio St,Indiana,Ohio St,True,14,2024-11-23,1,0.58,True
+16574,Oklahoma,Alabama,Oklahoma,True,14,2024-11-23,1,0.73,True
+16575,Oregon St,Washington St,Oregon St,True,14,2024-11-23,1,0.59,True
+16576,Minnesota,Penn St,Penn St,False,14,2024-11-23,0,0.39,True
+16577,S Alabama,Southern Miss,S Alabama,True,14,2024-11-23,0,0.4,False
+16579,Tulsa,S Florida,S Florida,False,14,2024-11-23,1,0.55,False
+16580,UCLA,USC,USC,False,14,2024-11-23,1,0.61,False
+16581,Virginia,SMU,SMU,False,14,2024-11-23,1,0.53,False
+16582,Syracuse,UConn,Syracuse,True,14,2024-11-23,1,0.61,True
+16583,UTEP,Tennessee,Tennessee,False,14,2024-11-23,0,0.49,True
+16584,Texas,Kentucky,Texas,True,14,2024-11-23,1,0.53,True
+16585,Arizona,TCU,TCU,False,14,2024-11-23,0,0.46,True
+16586,Oklahoma St,Texas Tech,Texas Tech,False,14,2024-11-23,0,0.45,True
+16587,San Diego St,Utah St,Utah St,False,14,2024-11-23,1,0.55,False
+16588,UCF,West Virginia,West Virginia,False,14,2024-11-23,0,0.48,True
+16589,Toledo,Akron,Akron,False,15,2024-11-26,0,0.43,True
+16590,Buffalo,Kent St,Buffalo,True,15,2024-11-26,1,0.52,True
+16591,Tulane,Memphis,Memphis,False,15,2024-11-28,1,0.57,False
+16592,Oregon St,Boise St,Boise St,False,15,2024-11-29,0,0.46,True
+16593,Colorado,Oklahoma St,Colorado,True,15,2024-11-29,0,0.4,False
+16594,Utah St,Colorado St,Colorado St,False,15,2024-11-29,0,0.5,True
+16595,Georgia,Georgia Tech,Georgia,True,15,2024-11-29,0,0.46,False
+16596,Nebraska,Iowa,Iowa,False,15,2024-11-29,1,0.53,False
+16597,Miami OH,Bowling Green,Miami OH,True,15,2024-11-29,1,0.61,True
+16598,Wisconsin,Minnesota,Minnesota,False,15,2024-11-29,1,0.57,False
+16599,Mississippi St,Mississippi,Mississippi,False,15,2024-11-29,0,0.46,True
+16600,E Carolina,Navy,Navy,False,15,2024-11-29,0,0.36,True
+16601,Ball St,Ohio,Ohio,False,15,2024-11-29,1,0.61,False
+16602,Liberty,Sam Houston,Sam Houston,False,15,2024-11-29,0,0.4,True
+16603,Stanford,San Jose St,San Jose St,False,15,2024-11-29,0,0.44,True
+16604,Texas St,S Alabama,Texas St,True,15,2024-11-29,0,0.43,False
+16605,UCF,Utah,Utah,False,15,2024-11-29,0,0.46,True
+16606,San Diego St,Air Force,Air Force,False,15,2024-11-30,1,0.52,False
+16607,Alabama,Auburn,Alabama,True,15,2024-11-30,1,0.5175,True
+16608,Arizona,Arizona St,Arizona St,False,15,2024-11-30,0,0.49,True
+16609,Army,UTSA,Army,True,15,2024-11-30,1,0.59,True
+16610,Baylor,Kansas,Baylor,True,15,2024-11-30,1,0.57,True
+16611,Boston College,Pittsburgh,Boston College,True,15,2024-11-30,1,0.56,True
+16612,BYU,Houston,BYU,True,15,2024-11-30,1,0.64,True
+16613,Charlotte,UAB,Charlotte,True,15,2024-11-30,1,0.65,True
+16614,Georgia St,Coastal Car,Coastal Car,False,15,2024-11-30,0,0.31,True
+16615,UMass,UConn,UConn,False,15,2024-11-30,1,0.56,False
+16616,Wake Forest,Duke,Duke,False,15,2024-11-30,0,0.4,True
+16617,Florida St,Florida,Florida,False,15,2024-11-30,0,0.31,True
+16618,Tulsa,Florida Atlantic,Florida Atlantic,False,15,2024-11-30,1,0.51,False
+16619,Middle Tenn,Florida Intl,Florida Intl,False,15,2024-11-30,0,0.27,True
+16620,Georgia So,App State,Georgia So,True,15,2024-11-30,0,0.49333333333333335,False
+16621,Hawai'i,New Mexico,Hawai'i,True,15,2024-11-30,1,0.53,True
+16622,Illinois,Northwestern,Illinois,True,15,2024-11-30,1,0.5633333333333334,True
+16623,Indiana,Purdue,Indiana,True,15,2024-11-30,0,0.49,False
+16624,Iowa St,Kansas St,Iowa St,True,15,2024-11-30,0,0.41,False
+16625,UL Monroe,Louisiana,Louisiana,False,15,2024-11-30,0,0.45,True
+16626,LSU,Oklahoma,LSU,True,15,2024-11-30,1,0.59,True
+16627,Kennesaw St,Louisiana Tech,Louisiana Tech,False,15,2024-11-30,0,0.5,True
+16628,Louisville,Kentucky,Louisville,True,15,2024-11-30,0,0.44,False
+16629,Marshall,J Madison,Marshall,True,15,2024-11-30,1,0.55,True
+16630,Michigan,Ohio St,Michigan,True,15,2024-11-30,1,0.67,True
+16631,Arkansas,Missouri,Missouri,False,15,2024-11-30,0,0.48,True
+16632,Nevada,UNLV,UNLV,False,15,2024-11-30,1,0.52,False
+16633,NC State,North Carolina,NC State,True,15,2024-11-30,0,0.45,False
+16634,Temple,N Texas,N Texas,False,15,2024-11-30,0,0.41,True
+16635,N Illinois,C Michigan,N Illinois,True,15,2024-11-30,1,0.59,True
+16636,USC,Notre Dame,Notre Dame,False,15,2024-11-30,0,0.31,True
+16637,Old Dominion,Arkansas St,Old Dominion,True,15,2024-11-30,1,0.605,True
+16638,Washington,Oregon,Oregon,False,15,2024-11-30,1,0.54,False
+16639,Maryland,Penn St,Penn St,False,15,2024-11-30,0,0.36,True
+16640,S Florida,Rice,Rice,False,15,2024-11-30,0,0.42333333333333334,True
+16641,Michigan St,Rutgers,Rutgers,False,15,2024-11-30,0,0.38,True
+16642,South Carolina,Clemson,South Carolina,True,15,2024-11-30,0,0.345,False
+16643,California,SMU,SMU,False,15,2024-11-30,1,0.54,False
+16644,Syracuse,Miami,Syracuse,True,15,2024-11-30,1,0.66,True
+16645,Tennessee,Vanderbilt,Tennessee,True,15,2024-11-30,0,0.45,False
+16646,Texas,Texas A&M,Texas,True,15,2024-11-30,1,0.58,True
+16647,Cincinnati,TCU,TCU,False,15,2024-11-30,0,0.41,True
+16648,West Virginia,Texas Tech,Texas Tech,False,15,2024-11-30,1,0.54,False
+16649,UTEP,New Mexico St,UTEP,True,15,2024-11-30,0,0.46,False
+16650,Southern Miss,Troy,Troy,False,15,2024-11-30,1,0.54,False
+16651,Fresno St,UCLA,UCLA,False,15,2024-11-30,1,0.51,False
+16652,Virginia Tech,Virginia,Virginia Tech,True,15,2024-11-30,1,0.59,True
+16653,W Kentucky,Jacksonville St,W Kentucky,True,15,2024-11-30,0,0.49,False
+16654,E Michigan,W Michigan,W Michigan,False,15,2024-11-30,1,0.63,False
+16655,Wyoming,Washington St,Wyoming,True,15,2024-11-30,0,0.49,False
+16656,Army,Tulane,Army,True,16,2024-12-06,0,0.37,False
+16657,Boise St,UNLV,Boise St,True,16,2024-12-06,1,0.58,True
+16658,Jacksonville St,W Kentucky,Jacksonville St,True,16,2024-12-06,0,0.37,False
+16659,Iowa St,Arizona St,Arizona St,False,16,2024-12-07,0,0.37,True
+16660,Clemson,SMU,Clemson,True,16,2024-12-07,0,0.4875,False
+16661,Georgia,Texas,Georgia,True,16,2024-12-07,1,0.57,True
+16662,Louisiana,Marshall,Marshall,False,16,2024-12-07,0,0.44,True
+16663,Ohio,Miami OH,Ohio,True,16,2024-12-07,0,0.43,False
+16664,Oregon,Penn St,Oregon,True,16,2024-12-07,1,0.58,True
+16665,Army,Navy,Navy,False,17,2024-12-14,1,0.54,False
+16666,W Michigan,S Alabama,S Alabama,False,17,2024-12-14,0,0.36,True
+16667,West Virginia,Memphis,Memphis,False,18,2024-12-17,0,0.44,True
+16668,W Kentucky,J Madison,J Madison,False,18,2024-12-18,1,0.52,False
+16669,UNLV,California,UNLV,True,18,2024-12-18,0,0.45,False
+16670,Sam Houston,Georgia So,Sam Houston,True,18,2024-12-19,0,0.5,False
+16671,Tulane,Florida,Florida,False,18,2024-12-20,1,0.64,False
+16672,Notre Dame,Indiana,Notre Dame,True,18,2024-12-20,1,0.64,True
+16673,Jacksonville St,Ohio,Ohio,False,18,2024-12-20,0,0.49,True
+16674,Tennessee,Ohio St,Ohio St,False,18,2024-12-21,0,0.48,True
+16675,SMU,Penn St,Penn St,False,18,2024-12-21,1,0.51,False
+16676,Clemson,Texas,Texas,False,18,2024-12-21,0,0.49,True
+16677,Fresno St,N Illinois,N Illinois,False,18,2024-12-23,0,0.47,True
+16678,UTSA,Coastal Car,UTSA,True,18,2024-12-23,0,0.47,False
+16679,San Jose St,S Florida,S Florida,False,19,2024-12-24,0,0.44,True
+16680,Bowling Green,Arkansas St,Arkansas St,False,19,2024-12-26,1,0.51,False
+16681,Rutgers,Kansas St,Kansas St,False,19,2024-12-26,1,0.61,False
+16682,Pittsburgh,Toledo,Toledo,False,19,2024-12-26,1,0.615,False
+16683,Arkansas,Texas Tech,Arkansas,True,19,2024-12-27,1,0.52,True
+16684,Oklahoma,Navy,Navy,False,19,2024-12-27,0,0.475,True
+16685,USC,Texas A&M,USC,True,19,2024-12-27,0,0.41,False
+16686,Washington St,Syracuse,Syracuse,False,19,2024-12-27,1,0.57,False
+16687,Vanderbilt,Georgia Tech,Vanderbilt,True,19,2024-12-27,1,0.68,True
+16688,Louisiana Tech,Army,Army,False,19,2024-12-28,0,0.47,True
+16689,BYU,Colorado,BYU,True,19,2024-12-28,0,0.36,False
+16690,UConn,North Carolina,UConn,True,19,2024-12-28,1,0.575,True
+16691,NC State,E Carolina,E Carolina,False,19,2024-12-28,0,0.49,True
+16692,Iowa St,Miami,Iowa St,True,19,2024-12-28,0,0.49,False
+16693,Miami OH,Colorado St,Miami OH,True,19,2024-12-28,1,0.52,True
+16694,Boston College,Nebraska,Nebraska,False,19,2024-12-28,1,0.52,False
+16695,TCU,Louisiana,TCU,True,19,2024-12-28,0,0.46,False
+16696,Iowa,Missouri,Missouri,False,20,2024-12-30,0,0.48,True
+16697,Illinois,South Carolina,Illinois,True,21,2024-12-31,0,0.49,False
+16698,LSU,Baylor,LSU,True,21,2024-12-31,0,0.3766666666666667,False
+16699,Washington,Louisville,Louisville,False,21,2024-12-31,0,0.48,True
+16700,Michigan,Alabama,Michigan,True,21,2024-12-31,1,0.67,True
+16701,Penn St,Boise St,Penn St,True,21,2024-12-31,0,0.43,False
+16702,Oregon,Ohio St,Ohio St,False,21,2025-01-01,1,0.53,False
+16703,Arizona St,Texas,Texas,False,21,2025-01-01,1,0.54,False
+16704,Mississippi,Duke,Mississippi,True,21,2025-01-02,0,0.44,False
+16705,Notre Dame,Georgia,Notre Dame,True,21,2025-01-02,1,0.59,True
+16706,Virginia Tech,Minnesota,Minnesota,False,21,2025-01-03,0,0.49,True
+16707,Texas St,N Texas,Texas St,True,21,2025-01-03,1,0.66,True
+16708,Liberty,Buffalo,Buffalo,False,21,2025-01-04,1,0.54,False
+16709,Notre Dame,Penn St,Notre Dame,True,22,2025-01-09,1,0.5433333333333333,True
+16710,Ohio St,Texas,Ohio St,True,22,2025-01-10,0,0.39,False
+16711,Notre Dame,Ohio St,Ohio St,False,23,2025-01-20,1,0.52,False

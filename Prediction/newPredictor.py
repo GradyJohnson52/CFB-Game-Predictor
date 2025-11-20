@@ -331,7 +331,7 @@ def standardize_team_name(team_name):
 matchup_df = pd.read_csv('CSVs/advanced_matchup_data.csv')
 
 # Load the trained model
-best_model = joblib.load('Model_pkls/RFB_Last3.pkl')
+best_model = joblib.load('Model_pkls/XGBin_Last3.pkl')
 scaler = joblib.load('Model_pkls/scalerRFB3.pkl')
 
 
